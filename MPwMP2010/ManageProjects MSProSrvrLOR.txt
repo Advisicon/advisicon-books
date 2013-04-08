@@ -1,0 +1,391 @@
+﻿../Icons and Logos/Advisicon R logoOnly.pdf i
+../Icons and Logos/PMI Rep Logo.eps iv
+../Icons and Logos/pmi rep logo.jpg iv
+C:/Users/Jeff Jacobson/Dropbox/advisicon/officialMaterials/AdvisiconPartnersLogo-WhiteBkgrd.pdf iv
+../Icons and Logos/MCP logo (1) copy.eps iv
+../Icons and Logos/MsOffice Enterprise logo.png @ 300 dpi v
+../../../Microsoft Access in a SharePoint World/Graphics/Ch-Pref/tr-x_small.jpg @ 100 dpi vi
+C:/Users/Jeff Jacobson/Dropbox/advisicon/officialMaterials/AdvisiconPartnersLogo-WhiteBkgrd.pdf vi
+../Icons and Logos/MVP Logo2.png @ 300 dpi vi
+../Graphics/AuthorPortraits/lynn-jesus.jpg @ 150 dpi vi
+../Graphics/AuthorPortraits/cindy-lewis.jpg @ 150 dpi vii
+../Icons and Logos/Advisicon R logoOnly.pdf viii
+../Icons and Logos/Advisicon R logoOnly.pdf xvii
+../../../MSPS2010-PM/MSPS2010-PM-v3.00/Graphics/_Icons Logos and Universal Graphics/PMBOKicon.png @ 750 dpi xviii
+../Icons and Logos/DocumentNote.png @ 96 dpi xviii
+../Icons and Logos/tipwand.jpg xviii
+../Icons and Logos/Warning.png @ 96 dpi xviii
+../Icons and Logos/Advisicon R logoOnly.pdf 1
+../Graphics/LeveragingTechPM/exampleOfFivePhaseProjectLifecycle.pdf 6
+../Graphics/LeveragingTechPM/InputsToolsOutputs.png @ 175 dpi 7
+../Icons and Logos/DocumentNote.png @ 96 dpi 9
+../Graphics/LeveragingTechPM/MS Project 2010 Tips & Tricks PowerPoint.pdf 12
+../Icons and Logos/DocumentNote.png @ 96 dpi 13
+../Graphics/LeveragingTechPM/ProjectSteps.png @ 175 dpi 16
+../Icons and Logos/DocumentNote.png @ 96 dpi 16
+../Icons and Logos/Advisicon R logoOnly.pdf 19
+../Icons and Logos/DocumentNote.png @ 96 dpi 22
+../Graphics/GettingStartedNavigating/Project Ribbon.png @ 175 dpi 23
+../Icons and Logos/tipwand.jpg 23
+../Graphics/GettingStartedNavigating/Project Ribbon.png @ 175 dpi 23
+../Graphics/GettingStartedNavigating/Project Ribbon Minimized.png @ 175 dpi 23
+../Graphics/GettingStartedNavigating/File Menu.png @ 175 dpi 24
+../Icons and Logos/tipwand.jpg 24
+../Graphics/GettingStartedNavigating/Quick Access Toolbar.png @ 175 dpi 25
+../Graphics/GettingStartedNavigating/Project Options - More Commands.png @ 175 dpi 25
+../Icons and Logos/tipwand.jpg 25
+../Graphics/GettingStartedNavigating/More Commands.png @ 96 dpi 26
+../Graphics/GettingStartedNavigating/Project Options - Schedule.png @ 175 dpi 27
+../Icons and Logos/tipwand.jpg 28
+../Icons and Logos/tipwand.jpg 29
+../Graphics/GettingStartedNavigating/Project Options - Schedule.png @ 175 dpi 29
+../Graphics/GettingStartedNavigating/editing.png @ 175 dpi 30
+../Icons and Logos/tipwand.jpg 32
+../Graphics/GettingStartedNavigating/File New.png @ 175 dpi 33
+../Graphics/GettingStartedNavigating/Quick Access Toolbar - Save.png @ 175 dpi 34
+../Icons and Logos/DocumentNote.png @ 96 dpi 34
+../Icons and Logos/DocumentNote.png @ 96 dpi 35
+../Graphics/GettingStartedNavigating/Zoom Bar.png @ 175 dpi 37
+../Graphics/UsingViews/Lower Pane Access.png @ 175 dpi 38
+../Graphics/GettingStartedNavigating/Scroll to Task.png @ 150 dpi 38
+../Graphics/GettingStartedNavigating/Divider-Bar.png @ 175 dpi 39
+../Icons and Logos/Advisicon R logoOnly.pdf 43
+../Icons and Logos/DocumentNote.png @ 96 dpi 46
+../Graphics/BestPractices/Project Options Schedule Manual Schedule.png @ 175 dpi 47
+../Graphics/BestPractices/Menu Bar Manual Schedule.png @ 150 dpi 48
+../Graphics/BestPractices/Task Column Remove Constraints.png @ 175 dpi 49
+../Graphics/BestPractices/Note on Task.png @ 96 dpi 49
+../Graphics/BestPractices/Task Information Dialogue.png @ 175 dpi 50
+../Icons and Logos/tipwand.jpg 50
+../Icons and Logos/tipwand.jpg 51
+../Icons and Logos/tipwand.jpg 51
+../Graphics/BestPractices/Project Information Dialogue.png @ 175 dpi 52
+../Graphics/BestPractices/Move Project Dialogue.png @ 175 dpi 52
+../Icons and Logos/tipwand.jpg 52
+../Graphics/BestPractices/Project Information Dialogue.png @ 175 dpi 54
+../Icons and Logos/DocumentNote.png @ 96 dpi 56
+../Graphics/BestPractices/Entering Task Info.png @ 175 dpi 57
+../Icons and Logos/tipwand.jpg 57
+../Graphics/BestPractices/enteringDurationValues.jpg @ 96 dpi 58
+../Icons and Logos/DocumentNote.png @ 96 dpi 58
+../Graphics/BestPractices/Insert Task Icon.png @ 150 dpi 60
+../Graphics/BestPractices/Insert Task from Right Click.png @ 96 dpi 61
+../Icons and Logos/tipwand.jpg 61
+../Graphics/BestPractices/Recurring Tasks.png @ 175 dpi 62
+../Icons and Logos/tipwand.jpg 62
+../Graphics/BestPractices/Recurring Task Dialogue.png @ 175 dpi 63
+../Graphics/BestPractices/Recurring Tasks.png @ 175 dpi 63
+../Icons and Logos/Warning.png @ 96 dpi 63
+../Graphics/BestPractices/Delete Task Right Click Menu.png @ 96 dpi 65
+../Icons and Logos/DocumentNote.png @ 96 dpi 65
+../Graphics/BestPractices/Save As Template Verification Dialogue.png @ 175 dpi 67
+../Icons and Logos/Advisicon R logoOnly.pdf 69
+../Graphics/OutliningLinkingNewTasks/outline.png @ 175 dpi 71
+../Graphics/OutliningLinkingNewTasks/schedule group1.png @ 175 dpi 72
+../Graphics/OutliningLinkingNewTasks/schedule group2..png @ 175 dpi 72
+../Graphics/OutliningLinkingNewTasks/expanded outline.png @ 175 dpi 73
+../Graphics/OutliningLinkingNewTasks/collapsed outline.png @ 175 dpi 73
+../Graphics/OutliningLinkingNewTasks/pic 6.png @ 175 dpi 74
+../Icons and Logos/DocumentNote.png @ 96 dpi 75
+../Icons and Logos/Warning.png @ 96 dpi 75
+../Icons and Logos/DocumentNote.png @ 96 dpi 77
+../Icons and Logos/DocumentNote.png @ 96 dpi 78
+../Graphics/OutliningLinkingNewTasks/link.png @ 175 dpi 79
+../Graphics/OutliningLinkingNewTasks/link 1.png @ 175 dpi 79
+../Icons and Logos/DocumentNote.png @ 96 dpi 79
+../Graphics/OutliningLinkingNewTasks/link 2.png @ 175 dpi 80
+../Icons and Logos/DocumentNote.png @ 96 dpi 80
+../Icons and Logos/tipwand.jpg 81
+../Icons and Logos/Warning.png @ 96 dpi 81
+../Graphics/OutliningLinkingNewTasks/pic 10.png @ 175 dpi 83
+../Icons and Logos/tipwand.jpg 84
+../Icons and Logos/PMBOKicon.png @ 750 dpi 85
+../Graphics/OutliningLinkingNewTasks/Inputs-Tools-Outputs.png @ 175 dpi 85
+../Graphics/OutliningLinkingNewTasks/lag.png @ 175 dpi 86
+../Graphics/OutliningLinkingNewTasks/lag2.png @ 175 dpi 86
+../Icons and Logos/DocumentNote.png @ 96 dpi 86
+../Graphics/OutliningLinkingNewTasks/pic 13.png @ 175 dpi 87
+../Graphics/OutliningLinkingNewTasks/finish date.png @ 175 dpi 88
+../Icons and Logos/Advisicon R logoOnly.pdf 91
+../Graphics/TasksConstraintsDeadlines/Task Information Dialogue - General Tab.png @ 175 dpi 94
+../Graphics/TasksConstraintsDeadlines/Task Information Dialogue - Advanced Tab.png @ 175 dpi 95
+../Graphics/TasksConstraintsDeadlines/Task Information Dialogue - Notes Tab.png @ 175 dpi 96
+../Graphics/TasksConstraintsDeadlines/Milestone Indicator.png @ 175 dpi 97
+../Graphics/TasksConstraintsDeadlines/Scroll to Task.png @ 150 dpi 97
+../Icons and Logos/tipwand.jpg 98
+../Icons and Logos/DocumentNote.png @ 96 dpi 98
+../Graphics/BestPractices/Inactivate a Task.png @ 150 dpi 99
+../Icons and Logos/tipwand.jpg 99
+../Icons and Logos/tipwand.jpg 99
+../Icons and Logos/tipwand.jpg 99
+../Graphics/TasksConstraintsDeadlines/Task Constraints.png @ 175 dpi 101
+../Graphics/OutliningLinkingNewTasks/constraint.png @ 175 dpi 102
+../Icons and Logos/DocumentNote.png @ 96 dpi 102
+../Icons and Logos/tipwand.jpg 103
+../Icons and Logos/Warning.png @ 96 dpi 103
+../Icons and Logos/Advisicon R logoOnly.pdf 105
+../Graphics/creatingAndAssigningResources/entryTableWithDurationAndOptionalFields.jpg @ 96 dpi 107
+../Icons and Logos/DocumentNote.png @ 96 dpi 107
+../Icons and Logos/tipwand.jpg 108
+../Graphics/BestPractices/enteringDurationOrWorkValues.png @ 96 dpi 108
+../Icons and Logos/tipwand.jpg 108
+../Graphics/WorkingWithResources/changing the resource calendar.png @ 175 dpi 109
+../Graphics/creatingAndAssigningResources/resourceNamesField.png @ 175 dpi 110
+../Graphics/WorkingWithResources/Screenshot 1.png @ 175 dpi 111
+../Icons and Logos/tipwand.jpg 111
+../Icons and Logos/DocumentNote.png @ 96 dpi 111
+../Icons and Logos/DocumentNote.png @ 96 dpi 114
+../Graphics/WorkingWithResources/Screenshot 2.png @ 175 dpi 114
+../Icons and Logos/tipwand.jpg 115
+../Icons and Logos/tipwand.jpg 115
+../Icons and Logos/tipwand.jpg 115
+../Icons and Logos/Advisicon R logoOnly.pdf 117
+../Graphics/UsingViews/View Bar Right Click.png @ 96 dpi 120
+../Graphics/UsingViews/More Views from Task Tab.png @ 175 dpi 121
+../Graphics/UsingViews/Change Table View.png @ 175 dpi 121
+../Graphics/UsingViews/Change Table Right Click.png @ 96 dpi 122
+../Graphics/UsingViews/Change Table Menu.png @ 150 dpi 122
+../Graphics/FormattingProject2010/Hide Remove Columns.png @ 150 dpi 123
+../Graphics/FormattingProject2010/Hide Remove Column Menu.png @ 96 dpi 123
+../Graphics/FormattingProject2010/Add Column.png @ 96 dpi 124
+../Graphics/FormattingProject2010/Add New Column in View.png @ 175 dpi 125
+../Icons and Logos/DocumentNote.png @ 96 dpi 125
+../Graphics/UsingViews/Calendar View.png @ 175 dpi 126
+../Graphics/UsingViews/Detailed Gantt View.png @ 175 dpi 127
+../Graphics/UsingViews/Leveling Gantt.png @ 175 dpi 128
+../Graphics/UsingViews/Tracking Gantt.png @ 175 dpi 128
+../Graphics/UsingViews/Multiple Baseline Gantt.png @ 175 dpi 129
+../Graphics/UsingViews/Network Diagram.png @ 175 dpi 130
+../Graphics/UsingViews/Network Diagram Big.png @ 175 dpi 130
+../Graphics/UsingViews/Resource Allocation.png @ 175 dpi 131
+../Graphics/UsingViews/Resource Form.png @ 175 dpi 132
+../Icons and Logos/tipwand.jpg 132
+../Graphics/UsingViews/resourceGraph2.png @ 175 dpi 133
+../Graphics/UsingViews/resourceSheet.png @ 175 dpi 133
+../Graphics/UsingViews/Resource Usage.png @ 175 dpi 134
+../Graphics/UsingViews/Task Details Form.png @ 175 dpi 135
+../Graphics/UsingViews/Task Entry.png @ 175 dpi 135
+../Graphics/UsingViews/Task Form.png @ 175 dpi 136
+../Graphics/UsingViews/Task Usage.png @ 175 dpi 136
+../Graphics/UsingViews/Team Planner.png @ 175 dpi 137
+../Icons and Logos/DocumentNote.png @ 96 dpi 137
+../Graphics/UsingViews/Timeline View.png @ 175 dpi 138
+../Graphics/UsingViews/teamPlannerView.png @ 175 dpi 139
+../Graphics/UsingViews/reassign.png @ 175 dpi 140
+../Icons and Logos/DocumentNote.png @ 96 dpi 141
+../Graphics/UsingViews/timeline.png @ 175 dpi 141
+../Graphics/GettingStartedNavigating/Scroll Bars.png @ 150 dpi 142
+../Icons and Logos/tipwand.jpg 143
+../Icons and Logos/DocumentNote.png @ 96 dpi 143
+../Graphics/UsingViews/Filters.png @ 150 dpi 144
+../Graphics/UsingViews/Filter Menu.png @ 96 dpi 145
+../Icons and Logos/tipwand.jpg 145
+../Graphics/UsingViews/Grouping Bar.png @ 150 dpi 146
+../Graphics/UsingViews/Grouping Menu.png @ 96 dpi 146
+../Icons and Logos/DocumentNote.png @ 96 dpi 148
+../Graphics/UsingViews/Review Details in View.png @ 96 dpi 149 ##
+../Icons and Logos/DocumentNote.png @ 96 dpi 149
+../Graphics/UsingViews/Details in Resource Usage View.png @ 96 dpi 150
+../Icons and Logos/Advisicon R logoOnly.pdf 153
+../Icons and Logos/tipwand.jpg 157
+../Icons and Logos/DocumentNote.png @ 96 dpi 157
+../Graphics/ManageCostsProject/Create Rate Table for Resources.png @ 175 dpi 157
+../Graphics/ManageCostsProject/Assigning a Rate Table to a Task.png @ 96 dpi 158
+../Icons and Logos/tipwand.jpg 158
+../Graphics/ManageCostsProject/Working w Cost Resources.png @ 175 dpi 159
+../Graphics/ManageCostsProject/Assign Cost Resource to Task.png @ 96 dpi 160
+../Icons and Logos/tipwand.jpg 160
+../Graphics/ManageCostsProject/Entering Fixed Cost.png @ 175 dpi 161
+../Icons and Logos/tipwand.jpg 161
+../Graphics/ManageCostsProject/Creating Budget Resources.png @ 175 dpi 163
+../Icons and Logos/tipwand.jpg 163
+../Graphics/ManageCostsProject/Assign Budget Resource to Project.png @ 96 dpi 164
+../Icons and Logos/tipwand.jpg 164
+../Graphics/ManageCostsProject/Time Phased Approach.png @ 175 dpi 165
+../Graphics/ManageCostsProject/Budget Costs Field.png @ 175 dpi 166
+../Icons and Logos/tipwand.jpg 166
+../Icons and Logos/tipwand.jpg 166
+../Icons and Logos/tipwand.jpg 167
+../Icons and Logos/Advisicon R logoOnly.pdf 169
+../Graphics/Resolveconflict/Screen 16.png @ 175 dpi 173
+../Graphics/Resolveconflict/resource usage view.png @ 175 dpi 174
+../Graphics/Resolveconflict/more views box.png @ 175 dpi 175
+../Graphics/Resolveconflict/resource allocation.png @ 175 dpi 175
+../Icons and Logos/tipwand.jpg 176
+../Graphics/Resolveconflict/team planner.png @ 175 dpi 176
+../Graphics/Resolveconflict/contextMenuFromOverallocatedResource.png @ 96 dpi 178
+../Graphics/Resolveconflict/task inspector.png @ 175 dpi 179
+../Icons and Logos/tipwand.jpg 179
+../Icons and Logos/tipwand.jpg 180
+../Icons and Logos/tipwand.jpg 181
+../Graphics/Resolveconflict/lower pane delay.png @ 175 dpi 182
+../Icons and Logos/DocumentNote.png @ 96 dpi 183
+../Graphics/Resolveconflict/taskEditedIcon.tif @ 96 dpi 184
+../Graphics/Resolveconflict/Assignment Information Dialog.png @ 175 dpi 184
+../Graphics/Resolveconflict/work contour.png @ 175 dpi 184
+../Graphics/Resolveconflict/team planner.png @ 175 dpi 185
+../Icons and Logos/tipwand.jpg 185
+../Graphics/Resolveconflict/leveling options box.png @ 175 dpi 187
+../Graphics/Resolveconflict/priority numbers.png @ 175 dpi 188
+../Icons and Logos/tipwand.jpg 188
+../Graphics/Resolveconflict/leveling.png @ 175 dpi 189
+../Icons and Logos/Advisicon R logoOnly.pdf 191
+../Icons and Logos/tipwand.jpg 194
+../Graphics/TrackProgressProject/baseline.png @ 175 dpi 195
+../Icons and Logos/tipwand.jpg 195
+../Graphics/TrackProgressProject/clearBaseline.png @ 175 dpi 196
+../Graphics/TrackProgressProject/Status Date Dialogue.png @ 175 dpi 197
+../Icons and Logos/tipwand.jpg 197
+../Icons and Logos/Warning.png @ 96 dpi 197
+../Graphics/TrackProgressProject/Displaying Gantt View.png @ 175 dpi 198
+../Icons and Logos/tipwand.jpg 198
+../Graphics/TrackProgressProject/Marking a Task Percent Complete.png @ 150 dpi 199
+../Icons and Logos/tipwand.jpg 199
+../Graphics/TrackProgressProject/Marking a Task Percent Complete.png @ 150 dpi 199
+../Graphics/TrackProgressProject/Updating a Task That is Not on Schedule.png @ 175 dpi 200
+../Graphics/TrackProgressProject/Update Tasks Dialogue.png @ 175 dpi 200
+../Icons and Logos/tipwand.jpg 201
+../Graphics/TrackProgressProject/Update Tasks Dialogue.png @ 175 dpi 201
+../Graphics/TrackProgressProject/Rescheduling Moving a Task.png @ 150 dpi 201
+../Graphics/TrackProgressProject/Move Task Menu.png @ 96 dpi 202
+../Icons and Logos/Warning.png @ 96 dpi 202
+../Graphics/TrackProgressProject/project options dialog.png @ 175 dpi 204
+../Icons and Logos/tipwand.jpg 205
+../Icons and Logos/tipwand.jpg 205
+../Icons and Logos/Warning.png @ 96 dpi 205
+../Graphics/TrackProgressProject/More Tables Dialogue.png @ 175 dpi 207
+../Icons and Logos/Advisicon R logoOnly.pdf 209
+../Graphics/ImportingExportingProject/Copy Button Bar.png @ 175 dpi 211
+../Icons and Logos/DocumentNote.png @ 96 dpi 212
+../Icons and Logos/tipwand.jpg 212
+../Graphics/ImportingExportingProject/Copy Picture Dialogue.png @ 175 dpi 213
+../Icons and Logos/DocumentNote.png @ 96 dpi 214
+../Icons and Logos/DocumentNote.png @ 96 dpi 215
+../Icons and Logos/DocumentNote.png @ 96 dpi 216
+../Icons and Logos/tipwand.jpg 216
+../Graphics/ImportingExportingProject/Hyperlinking Files.png @ 96 dpi 217
+../Graphics/ImportingExportingProject/Hyperlink Files Dialogue.png @ 175 dpi 217
+../Icons and Logos/tipwand.jpg 218
+../Icons and Logos/tipwand.jpg 218
+../Icons and Logos/tipwand.jpg 218
+../Icons and Logos/Advisicon R logoOnly.pdf 221
+../Graphics/ReportingProject/Reports Bar - Visual Reports.png @ 150 dpi 223
+../Graphics/ReportingProject/Reports Dialogue.png @ 175 dpi 224
+../Graphics/ReportingProject/Overview Reports.png @ 175 dpi 225
+../Graphics/ReportingProject/Current Activity Reports.png @ 175 dpi 226
+../Graphics/ReportingProject/Cost Reports.png @ 175 dpi 227
+../Graphics/ReportingProject/Assignment Reports.png @ 175 dpi 228
+../Graphics/ReportingProject/Workload Reports.png @ 175 dpi 229
+../Graphics/ReportingProject/Visual Reports Dialogue.png @ 175 dpi 231
+../Icons and Logos/tipwand.jpg 231
+../Icons and Logos/Advisicon R logoOnly.pdf 233
+../Graphics/FormattingProject2010/Using the Format Tab.png @ 175 dpi 235
+../Graphics/FormattingProject2010/Network Diagram Format Bar.png @ 175 dpi 235
+../Graphics/FormattingProject2010/Calendar Tools Format Bar.png @ 175 dpi 235
+../Icons and Logos/Warning.png @ 96 dpi 235
+../Icons and Logos/DocumentNote.png @ 96 dpi 236
+../Icons and Logos/DocumentNote.png @ 96 dpi 236
+../Graphics/FormattingProject2010/Text Styles Dialogue.png @ 175 dpi 236
+../Graphics/FormattingProject2010/Text Styles Dialogue with Items Change.png @ 96 dpi 237
+../Graphics/FormattingProject2010/Gantt Chart Style.png @ 175 dpi 238
+../Icons and Logos/DocumentNote.png @ 96 dpi 239
+../Graphics/FormattingProject2010/Bar Styles Dialogue.png @ 175 dpi 239
+../Graphics/FormattingProject2010/Bar Styles Dialogue Bars Tab.png @ 175 dpi 240
+../Icons and Logos/tipwand.jpg 240
+../Graphics/FormattingProject2010/Format Bar Styles Button.png @ 150 dpi 240
+../Icons and Logos/DocumentNote.png @ 96 dpi 241
+../Icons and Logos/DocumentNote.png @ 96 dpi 241
+../Graphics/FormattingProject2010/Create New Gantt Bar Style.png @ 175 dpi 241
+../Icons and Logos/DocumentNote.png @ 96 dpi 241
+../Graphics/FormattingProject2010/Add Text to Gantt Bars.png @ 175 dpi 242
+../Graphics/FormattingProject2010/Link Lines with Descriptions.png @ 175 dpi 242
+../Graphics/FormattingProject2010/Link Lines with Descriptions 2.png @ 175 dpi 243
+../Graphics/FormattingProject2010/Formatting Text in Format Bar.png @ 150 dpi 243
+../Graphics/FormattingProject2010/Link Layout.png @ 175 dpi 243
+../Icons and Logos/Advisicon R logoOnly.pdf 245
+../Graphics/PrintingProject/Previewing for Printing.png @ 175 dpi 247
+../Graphics/PrintingProject/Print Specific Information.png @ 175 dpi 248
+../Graphics/PrintingProject/Page Setup Dialogue - Page Tab.png @ 175 dpi 249
+../Graphics/PrintingProject/Page Setup Dialogue - Margins Tab.png @ 175 dpi 249
+../Graphics/PrintingProject/Page Setup Dialogue - View Tab.png @ 175 dpi 250
+../Graphics/PrintingProject/Page Setup Dialogue - Header Tab.png @ 175 dpi 251
+../Icons and Logos/Warning.png @ 96 dpi 252
+../Icons and Logos/Advisicon R logoOnly.pdf 257
+../Icons and Logos/tipwand.jpg 259
+../Icons and Logos/Warning.png @ 96 dpi 259
+../Graphics/TrackingResourcesProject/tracking.png @ 175 dpi 259
+../Graphics/TrackingResourcesProject/earned value.png @ 175 dpi 261
+../Icons and Logos/tipwand.jpg 261
+../Graphics/TrackingResourcesProject/pic3.png @ 175 dpi 262
+../Icons and Logos/tipwand.jpg 262
+../Icons and Logos/Warning.png @ 96 dpi 262
+../Icons and Logos/tipwand.jpg 263
+../Icons and Logos/tipwand.jpg 263
+../Graphics/TrackingResourcesProject/baseline.png @ 175 dpi 264
+../Icons and Logos/tipwand.jpg 264
+../Graphics/TrackingResourcesProject/status date.png @ 175 dpi 265
+../Icons and Logos/tipwand.jpg 265
+../Icons and Logos/tipwand.jpg 265
+../Icons and Logos/tipwand.jpg 265
+../Graphics/TrackingResourcesProject/pic6.png @ 175 dpi 266
+../Graphics/TrackingResourcesProject/pic7.png @ 175 dpi 266
+../Icons and Logos/tipwand.jpg 266
+../Icons and Logos/tipwand.jpg 267
+../Graphics/TrackingResourcesProject/resource usage work view.png @ 175 dpi 267
+../Icons and Logos/tipwand.jpg 268
+../Graphics/TrackingResourcesProject/menu.png @ 175 dpi 268
+../Icons and Logos/tipwand.jpg 268
+../Icons and Logos/tipwand.jpg 269
+../Icons and Logos/Advisicon R logoOnly.pdf 271
+../Icons and Logos/tipwand.jpg 275
+../Icons and Logos/Warning.png @ 96 dpi 275
+../Graphics/WorkingResourcesTasks/Screen 2.png @ 175 dpi 276
+../Graphics/WorkingResourcesTasks/Screen 3.png @ 175 dpi 277
+../Graphics/WorkingResourcesTasks/Screen 4.png @ 175 dpi 277
+../Graphics/WorkingResourcesTasks/Screen 5.png @ 175 dpi 278
+../Graphics/WorkingResourcesTasks/Screen 6.png @ 175 dpi 279
+../Icons and Logos/DocumentNote.png @ 96 dpi 279
+../Icons and Logos/tipwand.jpg 280
+../Icons and Logos/DocumentNote.png @ 96 dpi 282
+../Icons and Logos/tipwand.jpg 282
+../Graphics/WorkingResourcesTasks/Screen 9.png @ 175 dpi 283
+../Graphics/WorkingResourcesTasks/Screen 10.png @ 175 dpi 283
+../Graphics/WorkingResourcesTasks/Screen 11.png @ 175 dpi 284
+../Graphics/WorkingResourcesTasks/Screen 12.png @ 175 dpi 284
+../Graphics/WorkingResourcesTasks/Screen 13.png @ 175 dpi 285
+../Graphics/WorkingResourcesTasks/Screen 14.png @ 175 dpi 286
+../Graphics/WorkingResourcesTasks/Screen 15.png @ 175 dpi 286
+../Icons and Logos/Advisicon R logoOnly.pdf 289
+../Graphics/CustomizingProject/globalTransferOfViewOptions.png @ 96 dpi 291
+../Graphics/CustomizingProject/CustomFieldsDialog.png @ 96 dpi 292
+../Graphics/CustomizingProject/EditLookupTableDialog.png @ 96 dpi 293
+../Graphics/CustomizingProject/FormulaDialog.png @ 96 dpi 294
+../Graphics/CustomizingProject/SummaryRowInherit.png @ 175 dpi 295
+../Graphics/CustomizingProject/NewFilterDialog.png @ 175 dpi 296
+../Graphics/CustomizingProject/NewGroupByDialog.png @ 175 dpi 297
+../Icons and Logos/Advisicon R logoOnly.pdf 299
+../Icons and Logos/Advisicon R logoOnly.pdf 303
+../Icons and Logos/tipwand.jpg 304
+../Icons and Logos/Advisicon R logoOnly.pdf 305
+../Icons and Logos/Advisicon R logoOnly.pdf 309
+../Icons and Logos/Advisicon R logoOnly.pdf 361
+C:/Users/Jeff Jacobson/Dropbox/advisicon/officialMaterials/AdvisiconPartnersLogo-WhiteBkgrd.pdf 362
+../Icons and Logos/pmi rep logo.jpg @ 300 dpi 363
+../../../../Book Covers/Newest Covers 2009/!Current PDFs/PPM-v1.0.pdf 364
+../../../../Book Covers/Newest Covers 2009/!Current PDFs/MRG.pdf 364
+C:/Users/Jeff Jacobson/Dropbox/advisicon/Books/MPwMP2010/cover/MPwMP2010-v2.06.pdf 364
+../../../../Book Covers/Newest Covers 2009/!Current PDFs/MSPS2010_admin-v1.0.pdf 365
+C:/Users/Jeff Jacobson/Dropbox/advisicon/Books/MSPS2010-PM/cover/MSPS2010_PM-v3.000.pdf 365
+../../../../Book Covers/Newest Covers 2009/!Current PDFs/MSPS2010_R&A-v1.0.pdf 365
+C:/Users/Jeff Jacobson/Dropbox/advisicon/Books/MSPS2010-TM/cover/MSPS2010_TM-v1.001.pdf 365
+../../../../Book Covers/Newest Covers 2009/!Current PDFs/SPfETC2010-v2.0.pdf 366
+../Graphics/flowcharts/PMLifecycle-flowchart.jpg @ 72 dpi 367
+../Graphics/flowcharts/Technical Project Lifecycle v3 3 Apr 08.jpg @ 72 dpi 367
+../Graphics/flowcharts/Requirements Gathering in the PM Lifecycle Flowchart v1.jpg @ 72 dpi 367
+../Graphics/flowcharts/Requirements Elicitation Flowchart v5.jpg @ 72 dpi 367
+../../../../Flowcharts/!Ready to Print Flowcharts/Issues Risk Flowchart v3.1Rev5.pdf 367
+../../../../Flowcharts/Scalability Flowchart_v0.1_04222011.pdf 367
+../Graphics/PM tools/RiskAnalysis.jpg @ 1500 dpi 368
+../Graphics/PM tools/project risk register/project risk register.gif @ 1500 dpi 368
+../Graphics/PM tools/advanced RACI/advanced RACI.gif @ 900 dpi 368
+../Graphics/PM tools/129.jpg @ 900 dpi 368
