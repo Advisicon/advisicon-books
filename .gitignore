@@ -1,2 +1,3 @@
 *.idlk
 .DS_Store
+.~lock*.docx#
