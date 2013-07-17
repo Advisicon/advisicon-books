@@ -1,0 +1,63 @@
+/* FRONTMATTER */
+
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 9px;
+}
+
+h1.book-title {
+/*  font-family: Helvetica, Arial, sans-serif;
+*/  font-size: 36px;
+}
+
+h1.book-subtitle {
+  font-size: 27px;
+}
+
+.titlepage-biline {
+  font-style: italic;
+}
+
+/* CHAPTER */
+
+h1.chapter-title {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1.header {
+  font-family: "HelveticaNeueLT Std", Helvetica, sans-serif;
+}
+
+p.first-paragraph {
+  font-family: "HelveticaNeueLT Std", Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 9px;
+  text-decoration: none;
+  font-variant: normal;
+  line-height: 1.556;
+  text-align: left;
+  
+}
+
+
+p.first-paragraph {
+  font-family: "HelveticaNeueLT Std", Helvetica, sans-serif;
+}
+
+.bullet-level-1 {
+  text-indent: 0px;
+  margin-left: 0px;
+}
+
+
+li {
+  display: list-item;
+}
+
+ol, ul {
+  margin: 2em;
+}
