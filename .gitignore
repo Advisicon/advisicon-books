@@ -3,3 +3,8 @@
 .~lock*.docx#
 Preflight\ Report.pdf
 **/cover/*.jpg
+**/covers/*.jpg
+**/cover/*-back.*
+**/cover/*-front.*
+**/covers/**/*-back.*
+**/covers/**/*-front.*
