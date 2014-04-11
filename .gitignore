@@ -2,3 +2,4 @@
 .DS_Store
 .~lock*.docx#
 Preflight\ Report.pdf
+**/cover/*.jpg
