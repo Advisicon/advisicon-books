@@ -1,0 +1,2 @@
+% Introduction to Scheduling with Microsoft Project: Best Practices from Project MVPs
+% Tim Runcie, Cindy Lewis, Ellen Lehnert

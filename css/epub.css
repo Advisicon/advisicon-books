@@ -1,0 +1,94 @@
+body { }
+code { font-family: monospace; }
+h1, h2, h3, h4, h5, h6 { 
+  text-align: center; 
+  margin-top:2em; 
+  margin-bottom:1em; 
+  font-family: sans-serif; 
+}
+h1.title { }
+h2.author { }
+p{
+  padding:0;
+  margin:0;
+  text-indent:2em;
+}
+blockquote{
+  margin-left:3em;
+  margin-right:3em;
+}
+.caption{
+  text-align:center;
+  font-style:italic;
+  margin-bottom:1em;
+  margin-top:.2em;
+  font-size:.8em;
+}
+blockquote > p{
+  text-indent:0;
+  margin-bottom:1em;
+}
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  margin-top:1em;
+}
+
+/* links */
+
+a {
+  background-color: #CFD1FC;
+  padding: 0 .25em;
+  color: #333333;
+}
+a:visited,
+a:active { background-color: #eeeeee; color: #666666; }
+a:hover,
+a:focus { background-color: #ffffff; color: #8488FA; }
+
+
+/* Callouts */
+
+.callout { 
+  margin-top: .25em; 
+  margin-bottom: .75em; 
+  padding: .25em .5em;
+  font-size: .75em;
+  border-width: 0 0 0 3px;
+  border-style: solid;
+}
+
+.callout strong:first-child { font-family: sans-serif; }
+
+.callout.pmbok                      { border-color: #333333;  color: #666666; }
+.callout.pmbok strong:first-child   { color: #333333; }
+
+.callout.note                       { border-color: #999999;  color: #666666; }
+.callout.note strong:first-child    { color: #999999; }
+
+.callout.warning                    { border-color: #b15656;  color: #666666; }
+.callout.warning strong:first-child { color: #b15656; }
+
+.callout.tip                        { border-color: #5d9052;  color: #666666; }
+.callout.tip strong:first-child     { color: #5d9052; }
+
+.callout.sidebar                    { border-color: #525f90;  color: #666666; } 
+.callout.sidebar strong:first-child {color: #525f90; }
+
+table {
+  font-size: .75em;
+}
+
+table td:first-child { font-weight: bold;  padding-left: 0; }
+table td { padding: 0 .5em; vertical-align: top; }
+
+.frontmatter.image img { width: 200px; padding: .25em; }
+
+figure { color: #999999; font-size: .75em; }
+figure blockquote { margin: 0; }
+
+.footnotes { color: #999999; font-size: .75em; }
+.footnotes  p { text-indent: 0; }
+.footnoteRef { font-size: .75em; padding: 0; }

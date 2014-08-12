@@ -9,3 +9,4 @@ Preflight\ Report.pdf
 **/covers/**/*-back.*
 **/covers/**/*-front.*
 Gemfile.lock
+*.swp
