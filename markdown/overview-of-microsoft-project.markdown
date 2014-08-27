@@ -282,197 +282,468 @@ Professional for Office 365, Project Standard, PWA, and Project Lite, see
 Current pricing and a detailed comparison chart of features can be found at
 [www.microsoft.com/project](http://www.microsoft.com/project).
 
-Review of the Ribbon, Back Stage View, Quick Launch
-To take advantage of Project’s many features, you need to be proficient in accessing schedule commands and file commands. In this section, we will review the organization of the Ribbon, when to access commands in Backstage view, and the benefits of the Quick Access toolbar.
-Exploring the Ribbon
-The Ribbon is the user interface which you will find across Microsoft products. Features are easy to find and there are new features available right at your fingertips. The series of tabs located at the top of the Ribbon represent the different sectors of work, such as resource management or task management. Starting with the Task tab, you will see it is divided into logical sections called groups. The group names are listed just below a collection of buttons. Buttons that are larger indicate a feature that is frequently used. Some of the important advantages to the Ribbon include:
-Everything is organized on tabs by subject area.
-Information on the Format tab automatically responds to the current working environment and provides "view" relevant buttons. Notice the view-specific heading above the Format tab.
-The size of the buttons adjust based on your available window or screen size so you don’t lose any capabilities, while maintaining maximum screen real estate.
-Features are available in a quick one- or two-click fashion.
-You can tailor the Ribbon by adding and/or removing features or by adding a new tab.
+## Review of the Ribbon, Back Stage View, Quick Launch
 
+To take advantage of Project's many features, you need to be proficient in
+accessing schedule commands and file commands. In this section, we will review
+the organization of the Ribbon, when to access commands in Backstage view, and
+the benefits of the Quick Access toolbar.
 
-Microsoft Project 2013 Ribbon.
+### Exploring the Ribbon
 
+The Ribbon is the user interface which you will find across Microsoft products.
+Features are easy to find and there are new features available right at your
+fingertips. The series of tabs located at the top of the Ribbon represent the
+different sectors of work, such as resource management or task management.
+Starting with the Task tab, you will see it is divided into logical sections
+called groups. The group names are listed just below a collection of buttons.
+Buttons that are larger indicate a feature that is frequently used. Some of the
+important advantages to the Ribbon include:
 
-Project Ribbon -- Expanded.
-To disable this feature, click the "Expand the Ribbon" symbol in the upper right-hand corner of the screen.
+* Everything is organized on tabs by subject area.
+* Information on the Format tab automatically responds to the current working 
+  environment and provides "view" relevant buttons. Notice the view-specific 
+  heading above the Format tab.
+* The size of the buttons adjust based on your available window or screen size 
+  so you don't lose any capabilities, while maintaining maximum screen real 
+  estate.
+* Features are available in a quick one- or two-click fashion.
+* You can tailor the Ribbon by adding and/or removing features or by adding a 
+  new tab.
 
-Project Ribbon -- Minimized.
-Backstage View (File Tab)
-To centrally locate file management activities, they are located on the File tab. Think of what you "do to the entire file" when you enter this area. This area is now known as the Backstage view. Some of the features available include:
-New, open, save, print, share and export.
-Connect with SharePoint , Skydrive, Office 365, and Project Server/Project Online.
-Project Options -- aligning options to all new projects or only specific projects.
+<aside class="note callout">
+**Note**: The File tab is unique and will be addressed in the next section.
+</aside>
 
-Backstage View (File Tab).
+![Microsoft Project 2013 Ribbon.](../assets/2-3.png)
 
-Overview of Common Views
-Project organizes views into two major categories: Task views and Resource views. A task view has a primary focus on showing task information while a resource view has a primary focus on showing resource information. Within those categories may be integrated views that showcase both task and resource information through resource assignments. This section is going to give you an introduction to common views that you should become familiar with to be successful in managing projects.
-Task Views
-Task views are accessed in a number of ways including through various tabs on the ribbon, through right-click short cuts and through the View Bar. You should find the option that you prefer.
-Project lists 11 popular task views: Calendar, Detail Gantt, Gantt Chart, Gantt with Timeline, Milestone Rollup, Network Diagram, Task Form, Task Sheet, Task Usage, Timeline, Timeline, and Tracking Gantt. Some of these will be illustrated below.
+<aside class="note callout">
+**Note**: The Ribbon can be configured to auto-hide or auto-display giving you
+valuable screen space as you work on your schedule. To set this, click the
+"minimize the Ribbon" symbol in the upper right-hand corner of the screen.
+</aside>
+
+![Project Ribbon -- Expanded.](../assets/2-4.png)
+
+To disable this feature, click the "Expand the Ribbon" symbol in the upper
+right-hand corner of the screen.
+
+![Project Ribbon -- Minimized.](../assets/2-5.png)
+
+### Backstage View (File Tab)
+
+To centrally locate file management activities, they are located on the File
+tab. Think of what you "do to the entire file" when you enter this area. This
+area is now known as the Backstage view. Some of the features available
+include:
+
+* New, open, save, print, share and export.
+* Connect with SharePoint , Skydrive, Office 365, and Project Server/Project Online.
+* Project Options -- aligning options to all new projects or only specific projects.
+
+![Backstage View (File Tab).](../assets/2-6.png)
+
+<aside class="tip callout">
+**Tip**: To exit Backstage View click the return arrow pointing left at the top
+of Backstage View.
+</aside>
+
+## Overview of Common Views
+
+Project organizes views into two major categories: Task views and Resource
+views. A task view has a primary focus on showing task information while a
+resource view has a primary focus on showing resource information. Within those
+categories may be integrated views that showcase both task and resource
+information through resource assignments. This section is going to give you an
+introduction to common views that you should become familiar with to be
+successful in managing projects.
+
+### Task Views
+
+Task views are accessed in a number of ways including through various tabs on
+the ribbon, through right-click short cuts and through the View Bar. You should
+find the option that you prefer.
+
+Project lists 11 popular task views: Calendar, Detail Gantt, Gantt Chart, Gantt
+with Timeline, Milestone Rollup, Network Diagram, Task Form, Task Sheet, Task
+Usage, Timeline, Timeline, and Tracking Gantt. Some of these will be
+illustrated below.
+
 To display a task view:
-Click the Task tab.
-Click the drop-down arrow on Gantt Chart in the View group.
-Click the desired view.
 
-Changing Views Icon.
-Gantt Chart -- the Gantt Chart is a graphic representation of the start and finish dates for a task. In addition to graphic bars, relationship arrows are also displayed. The advantage of the Gantt chart is it includes an Entry table on the left for easy data entry and it shows a graphical model on the right of the proposed plan for your project. This is the most popular view in Project.
+1. Click the **Task** tab.
+2. Click the drop-down arrow on **Gantt Chart** in the View group.
+3. Click the desired view.
 
-Gantt Chart View.
-Tracking Gantt -- this view will graphically represent the start and finish dates of a task like the Gantt Chart but is designed to help during the tracking phase of the project schedule. The advantage of this view is that the variance between the baseline plan and the current plan are shown visually.
+![Changing Views Icon.](../assets/2-7.png)
 
-Tracking Gantt View.
-Network Diagram -- The Network diagram is designed as a precedence diagram. It shows the predecessors and successors of tasks without regard to timeframe. This view is useful to see the layout of your schedule to and easily follow links.
+**Gantt Chart** -- the Gantt Chart is a graphic representation of the start and
+finish dates for a task. In addition to graphic bars, relationship arrows are
+also displayed. The advantage of the Gantt chart is it includes an Entry table
+on the left for easy data entry and it shows a graphical model on the right of
+the proposed plan for your project. This is the most popular view in Project.
 
-Network Diagram View.
-Calendar view -- The calendar view shows the project schedule in a calendar layout. This format is useful when presenting to individuals not familiar with how to read a Gantt Chart view.
+![Gantt Chart View.](../assets/2-8.png)
 
-Calendar View.
-Timeline View -- The Timeline View is a very flexible and customizable view. Tasks may be selected to appear on the timeline to give high level reporting capability. In addition, the timeline has the ability to highlight the timeframe it is representing. The Timeline view will be discussed in Chapter 1, Printing and Reporting. 
+**Tracking Gantt** -- this view will graphically represent the start and finish
+dates of a task like the Gantt Chart but is designed to help during the
+tracking phase of the project schedule. The advantage of this view is that the
+variance between the baseline plan and the current plan are shown visually.
 
-Timeline View.
-Task Usage -- The Task Usage view shows tasks and the resources assigned to the task. The advantage of this view is it includes resource assignments and shows numerically the resource needs to complete each task. Tailoring of this view provides cost or other fields of information.
+![Tracking Gantt View.](../assets/2-9.png)
 
-Task Usage View.
-Resource Views
-Resource views are accessed in a number of ways including through various tabs on the ribbon, through right-click short cuts and through the View Bar. You should find the option that you prefer.
-Project lists 5 popular resource views: Resource Form, Resource Graph, Resource Sheet, Resource Usage, and Team Planner. Some of these will be illustrated below.
+**Network Diagram** -- The Network diagram is designed as a precedence diagram.
+It shows the predecessors and successors of tasks without regard to timeframe.
+This view is useful to see the layout of your schedule to and easily follow
+links.
+
+![Network Diagram View.](../assets/2-10.png)
+
+**Calendar view** -- The calendar view shows the project schedule in a calendar
+layout. This format is useful when presenting to individuals not familiar with
+how to read a Gantt Chart view.
+
+![Calendar View.](../assets/2-11.png)
+
+**Timeline View** -- The Timeline View is a very flexible and customizable
+view. Tasks may be selected to appear on the timeline to give high level
+reporting capability. In addition, the timeline has the ability to highlight
+the timeframe it is representing. The Timeline view will be discussed in
+[Printing and Reporting](#printing-and-reporting).
+
+![Timeline View.](../assets/2-12.png)
+
+**Task Usage** -- The Task Usage view shows tasks and the resources assigned to
+the task. The advantage of this view is it includes resource assignments and
+shows numerically the resource needs to complete each task. Tailoring of this
+view provides cost or other fields of information.
+
+![Task Usage View.](../assets/2-13.png)
+
+### Resource Views
+
+Resource views are accessed in a number of ways including through various tabs
+on the ribbon, through right-click short cuts and through the View Bar. You
+should find the option that you prefer.
+
+Project lists 5 popular resource views: Resource Form, Resource Graph, Resource
+Sheet, Resource Usage, and Team Planner. Some of these will be illustrated
+below.
+
 To display a resource view:
-Click the Task tab.
-Click the drop-down arrow on Gantt Chart in the View group.
-Click the desired view.
 
-Changing Views Icon.
-Resource Sheet -- The resource sheet provides the table where resources are added into Project. The advantage of this view is the most popular fields needed to describe a resource are located here.
+1. Click the **Task** tab.
+2. Click the drop-down arrow on **Gantt Chart** in the View group.
+3. Click the desired view.
 
-Resource Sheet View.
-Resource Graph -- The Resource Graph graphically displays information about each resource. The advantage of this view is it can easily identify visually where a resource might be overallocated and by how much based on the length of the bar above the units available line (the darker horizontal line at 100% in Figure 2-16).
+![Changing Views Icon.](../assets/2-14.png)
 
-Resource Graph View.
-Team Planner -- the Team Planner view is a resource focused view that showcases work assignments in a graphical timeline format. The advantage of this view is that the focus is on the resource and graphically what work is scheduled at what time.
+**Resource Sheet** -- The resource sheet provides the table where resources are
+added into Project. The advantage of this view is the most popular fields
+needed to describe a resource are located here.
 
+![Resource Sheet View.](../assets/2-15.png)
 
-Team Planner View.
-Resource Usage– The Resource Usage view shows every resource on the project and what tasks they have been assigned. The advantage of this view is it shows hours scheduled to accomplish each task. This view is a reversal of Task Usage view. Both of these views are useful in team meetings. 
+**Resource Graph** -- The Resource Graph graphically displays information about
+each resource. The advantage of this view is it can easily identify visually
+where a resource might be overallocated and by how much based on the length of
+the bar above the units available line (the darker horizontal line at 100% in
+the [next figure](#fig-resource-graph-view)).
 
-Resource Usage View.
-Popular View Adjustments and Navigation
-The most proficient schedulers and project managers jump through schedules very quickly to access the information they need. In this section, we will explore shortcuts to change the level of detail, display additional fields of information, jump quickly throughout Gantt chart view and shortcuts to locate a task.
-Zooming In and Out
-Zooming in or out is the way to adjust the bar chart or timescale portion of a view to show more or less detail. For example, you can display Gantt bars across a daily timescale or across a quarterly timescale. 
-Two popular methods for zooming in and out are using the Zoom Slider and the Zoom options on the View tab. The Zoom Slider is recommended since that option is always displayed even when you navigate to another view. 
-You can click the minus and plus buttons to zoom out and zoom in.
-You can drag the zoom indicator in between the zoom out and zoom in buttons.
+![<span id="#fig-resource-graph-view">Resource Graph View.</span>](../assets/2-16.png)
 
-Zoom Slider.
-Hide or Insert a Column
-When you hide a column in Project 2013, the column is only removed from view, not deleted from your schedule. Keep in mind that hiding a column doesn’t remove any information from your schedule.
-Hide a Column
+**Team Planner** -- the Team Planner view is a resource focused view that
+showcases work assignments in a graphical timeline format. The advantage of
+this view is that the focus is on the resource and graphically what work is
+scheduled at what time.
+
+<aside class="note callout">
+**Note**: This feature is only available in Project Professional or Project Pro
+for Office 365.
+</aside>
+
+![Team Planner View.](../assets/2-17.png)
+
+**Resource Usage** -- The Resource Usage view shows every resource on the
+project and what tasks they have been assigned. The advantage of this view is
+it shows hours scheduled to accomplish each task. This view is a reversal of
+Task Usage view. Both of these views are useful in team meetings. 
+
+![Resource Usage View.](../assets/2-18.png)
+
+## Popular View Adjustments and Navigation
+
+The most proficient schedulers and project managers jump through schedules very
+quickly to access the information they need. In this section, we will explore
+shortcuts to change the level of detail, display additional fields of
+information, jump quickly throughout Gantt chart view and shortcuts to locate a
+task.
+
+## Zooming In and Out
+
+Zooming in or out is the way to adjust the bar chart or timescale portion of a
+view to show more or less detail. For example, you can display Gantt bars
+across a daily timescale or across a quarterly timescale. 
+
+Two popular methods for zooming in and out are using the Zoom Slider and the
+Zoom options on the View tab. The Zoom Slider is recommended since that option
+is always displayed even when you navigate to another view. 
+
+* You can click the minus and plus buttons to zoom out and zoom in.
+* You can drag the zoom indicator in between the zoom out and zoom in buttons.
+
+![Zoom Slider.](../assets/2-19.png)
+
+### Hide or Insert a Column
+
+When you hide a column in Project 2013, the column is only removed from view,
+not deleted from your schedule. Keep in mind that hiding a column doesn't
+remove any information from your schedule.
+
+#### Hide a Column
+
 To hide a column from a sheet view:
-In a sheet view, select the column you want to hide by clicking its title.
-This displays the Gantt Chart Tools tab with the Format tab underneath in the Ribbon.
-Click the Format tab.
-Click the drop-down arrow on Column Settings in the Columns group.
-Click Hide Column. 
 
+1. In a sheet view, select the column you want to hide by clicking its title.
+2. This displays the **Gantt Chart Tools** tab with the **Format** tab 
+   underneath in the Ribbon.
+3. Click the **Format** tab.
+4. Click the drop-down arrow on **Column Settings** in the Columns group.
+5. Click **Hide Column**. 
 
-Column Adjustment Icons.
+<aside class="tip callout">
+**Tip**: You can also press `delete` key on your keyboard.
+</aside>
 
-Column Settings Drop-down Menu.
-Insert a Column
+![Column Adjustment Icons.](../assets/2-20.png)
+
+![Column Settings Drop-down Menu.](../assets/2-21.png)
+
+#### Insert a Column
+
 To insert or add a column:
-In a sheet view, select the column to the right of where you want to insert the column.
-This displays the Gantt Chart Tools tab with the Format tab underneath in the Ribbon.
-Click the Format tab.
-Click Insert Column in the Columns group.
-A new blank column is displayed to the left of the column that you had selected. Click the drop-down arrow in the title box to specify the type of information from the list of possible column types (or fields) that the column will contain.
 
-Add New Column.
+1. In a sheet view, select the column to the right of where you want to insert 
+   the column.
+2. This displays the **Gantt Chart Tools** tab with the **Format** tab underneath in 
+   the Ribbon.
+3. Click the **Format** tab.
+4. Click **Insert Column** in the Columns group.
+5. A new blank column is displayed to the left of the column that you had selected. 
+   Click the drop-down arrow in the title box to specify the type of information 
+   from the list of possible column types (or fields) that the column will contain.
 
+![Add New Column.](../assets/2-22.png)
 
-Add New Column in View.
+<aside class="tip callout">
+**Tip**: Also at the end of every table in a Sheet view (the far right) there 
+is an **Add New Column** option available.
+</aside>
 
-Using the Scroll to Task Button
-The Scroll to Task is a shortcut feature to bring information to you quickly. It is useful in views like Gantt Chart, Task Usage, and Resource Usage where there is a table of information on the left and an associated timescale of information on the right. The main advantage of this feature is to reduce time spent scrolling or looking for information.
+![Add New Column in View.](../assets/2-23.png)
+
+<aside class="note callout">
+**Note**: To unhide a previously hidden column, insert the column as you would
+with any new column.
+</aside>
+
+### Using the Scroll to Task Button
+
+The Scroll to Task is a shortcut feature to bring information to you quickly.
+It is useful in views like Gantt Chart, Task Usage, and Resource Usage where
+there is a table of information on the left and an associated timescale of
+information on the right. The main advantage of this feature is to reduce time
+spent scrolling or looking for information.
+
 To use Scroll to Task:
-Click the task name or row ID number.
-Click the Task tab.
-Click Scroll to Task in the Editing group.
 
-Scroll to Task Icon.
+1. Click the task name or row ID number.
+2. Click the **Task** tab.
+3. Click **Scroll to Task** in the Editing group.
+
+![Scroll to Task Icon.](../assets/2-24.png)
+
 Project displays the date or dates where the selected task occurs on the timeline.
-Go To and Find
-As schedules begin to get larger, it is useful to have shortcuts to navigate through the information. In this topic, we will illustrate the advantages of Go To and Find within Gantt Chart view.
-To Go To information:
-Press the F5 key or Ctrl + G.
-In the Go To dialog box, enter a row ID number or choose or enter the date and click OK.
-To Find information:
-Click the Task tab.
-Click Find in the Editing group.
-In the Find dialog box, enter or set the desired options and click Find Next.
-Keyboard Shortcuts
-Key Tips allow you to use your keyboard to navigate through the Quick Access Toolbar and the Ribbon. To turn on Key Tips, simply tap the Alt key. You can also press F10 twice. Follow the letters and numbers that are displayed to use the function you desire.
-You can also use keyboard shortcuts to navigate through your project. The following table lists keys that are useful when navigating within views and windows.
-Key Tips and Keyboard Shortcuts
-Key Tips & Shortcut Outcome
-Tab Move right one field in an Entry table or dialog box.
-Shift+Tab Moves left one field in an Entry table or dialog box.
-Home  Moves to the beginning of a row or field of information.
-End Moves to the end of a row or field of information.
-Page Up Moves up one screen.
-Page Down Moves down one screen.
-Alt + Page Up / Alt + Page Down Moves left or right one screen on the time scale. 
-Alt +  / Alt +    Moves the time scale one unit left or right (as defined by the bottom time scale tier). 
-Alt + Home  Moves to the project start date in the bar chart.
-Alt + End Moves to the project finish date in the bar chart.
-Ctrl + Home Moves to the first field in the first row of the Entry table or the same location in any other sheet view.
-Ctrl + End, Home  Moves to the first field in the last row of the Entry table or the same location in any other sheet view.
-Ctrl +   Moves to the First Row.
-Ctrl +   Moves to the Last Row.
-F1  Turns on Project Help.
-F2  Activates in-cell editing for the selected field.
-F3  Displays all tasks or resources when a prior filter was applied.
-F5  Goes to a specific row ID number or a date on the time scale.
-F6  Activates the other pane in a combination or dual-pane view.
-F10 Press twice to turns on Key Tips. You can also tap the Alt key.
-Ctrl + Shift + F5 Displays the Gantt bar for the selected task.
-Ctrl + F4 Closes the Project window. 
-Ctrl + F5 Changes the Gantt Chart view from maximized to previous size (i.e., view window is separated from Project window). 
-Ctrl + F10  Maximizes the Gantt Chart view and combines it with the Project window.
-Ctrl + F9 Allows you to turn on and off Auto Calculate.
-Ctrl + F6 Displays the next open Project window.
-Ctrl + Shift + F6 Displays the previous open Project window. 
-Alt + Spacebar / Alt + Hyphen Displays the application control menu.
-Insert  When the Task ID is selected, a new blank row is added in the Entry table.
-Delete  When the Task ID is selected, a row is deleted from the Entry table.
-Alt + F3  Displays the Field Settings dialog box for the active column.
-Alt + F4    Closes Project.
-Shift + F2  Displays Task Information in Gantt Chart view. Displays Resource Information in Resource Sheet view.
-Shift + F3  Sorts by ID number.
-Shift + F6  Enables the horizontal and vertical split bars in Gantt Chart view.
-Shift + F11 / Alt + Shift + F1  Creates a new version of your schedule (e.g., Project: 2).
 
-Help
-Within Project, there are easy options to get help on features and functions. The default setting of the Ribbon provides detailed feature descriptions when you pause on a button. Should you need more assistance, a detailed help search is recommended. 
-The detailed help feature automatically assumes you are connected online, but you have the option to switch it to search on your computer only.
-Navigation through help is just like a website and you will notice the home button, back button, and hyperlinks as being familiar to you. 
+### Go To and Find
+
+As schedules begin to get larger, it is useful to have shortcuts to navigate
+through the information. In this topic, we will illustrate the advantages of Go
+To and Find within Gantt Chart view.
+
+To Go To information:
+
+1. Press the `F5` key or `Ctrl + G`.
+2. In the Go To dialog box, enter a row ID number or choose or enter the date
+   and click OK.
+
+To Find information:
+
+1. Click the **Task** tab.
+2. Click **Find** in the Editing group.
+3. In the **Find** dialog box, enter or set the desired options and click
+   **Find Next**.
+
+## Keyboard Shortcuts
+
+Key Tips allow you to use your keyboard to navigate through the Quick Access
+Toolbar and the Ribbon. To turn on Key Tips, simply tap the Alt key. You can
+also press `F10` twice. Follow the letters and numbers that are displayed to
+use the function you desire.
+
+You can also use keyboard shortcuts to navigate through your project. The
+following table lists keys that are useful when navigating within views and
+windows.
+
+: Key Tips and Keyboard Shortcuts
+
+------------------------------------------------------------------------------
+Key Tips & Shortcut               Outcome
+-------------------------------   --------------------------------------------
+Tab                               Move right one field in an Entry table or 
+                                  dialog box.
+
+Shift+Tab                         Moves left one field in an Entry table or 
+                                  dialog box.
+
+Home                              Moves to the beginning of a row or field of 
+                                  information.
+
+End                               Moves to the end of a row or field of 
+                                  information.
+
+Page Up                           Moves up one screen.
+
+Page Down                         Moves down one screen.
+
+Alt + Page Up / Alt + Page Down   Moves left or right one screen on the time 
+                                  scale. 
+
+Alt + &larr; / Alt + &rarr;       Moves the time scale one unit left or right 
+                                  (as defined by the bottom time scale tier). 
+
+Alt + Home                        Moves to the project start date in the bar 
+                                  chart.
+
+Alt + End                         Moves to the project finish date in the bar 
+                                  chart.
+
+Ctrl + Home                       Moves to the first field in the first row of 
+                                  the Entry table or the same location in any 
+                                  other sheet view.
+
+Ctrl + End, Home                  Moves to the first field in the last row of 
+                                  the Entry table or the same location in any 
+                                  other sheet view.
+
+Ctrl + &uarr;                     Moves to the First Row.
+
+Ctrl + &darr;                     Moves to the Last Row.
+
+F1                                Turns on Project Help.
+
+F2                                Activates in-cell editing for the selected 
+                                  field.
+
+F3                                Displays all tasks or resources when a prior 
+                                  filter was applied.
+
+F5                                Goes to a specific row ID number or a date 
+                                  on the time scale.
+
+F6                                Activates the other pane in a combination or 
+                                  dual-pane view.
+
+F10                               Press twice to turns on Key Tips. You can 
+                                  also tap the `Alt` key.
+
+Ctrl + Shift + F5                 Displays the Gantt bar for the selected task.
+
+Ctrl + F4                         Closes the Project window. 
+
+Ctrl + F5                         Changes the Gantt Chart view from maximized 
+                                  to previous size (i.e., view window is 
+                                  separated from Project window). 
+
+Ctrl + F10                        Maximizes the Gantt Chart view and combines 
+                                  it with the Project window.
+
+Ctrl + F9                         Allows you to turn on and off Auto Calculate.
+
+Ctrl + F6                         Displays the next open Project window.
+
+Ctrl + Shift + F6                 Displays the previous open Project window. 
+
+Alt + Spacebar / Alt + Hyphen     Displays the application control menu.
+
+Insert                            When the Task ID is selected, a new blank 
+                                  row is added in the Entry table.
+
+Delete                            When the Task ID is selected, a row is 
+                                  deleted from the Entry table.
+
+Alt + F3                          Displays the Field Settings dialog box for 
+                                  the active column.
+
+Alt + F4                          Closes Project.
+
+Shift + F2                        Displays Task Information in Gantt Chart 
+                                  view. Displays Resource Information in 
+                                  Resource Sheet view.
+
+Shift + F3                        Sorts by ID number.
+
+Shift + F6                        Enables the horizontal and vertical split 
+                                  bars in Gantt Chart view.
+
+Shift + F11 / Alt + Shift + F1    Creates a new version of your schedule 
+                                  (e.g., Project: 2).
+------------------------------------------------------------------------------
+
+## Help
+
+Within Project, there are easy options to get help on features and functions.
+The default setting of the Ribbon provides detailed feature descriptions when
+you pause on a button. Should you need more assistance, a detailed help search
+is recommended. 
+
+The detailed help feature automatically assumes you are connected online, but
+you have the option to switch it to search on your computer only.
+
+Navigation through help is just like a website and you will notice the home
+button, back button, and hyperlinks as being familiar to you. 
+
 To access Help:
-Press the F1 key or click the help icon in the top right-corner (question mark).
-Click the drop-down arrow on Project Help and choose the desired help option (online or not).
-Enter the terms you want to search on in the text box and press the Enter key or magnifier icon.
-Key Points to Remember
-Scheduling software offers benefits for managing budgets, resources, and tasks. 
-Project is a database and offers many advantages; most importantly elimination of duplicate data entry. 
-Determine the level of detail that is important to you before creating a schedule to provide a guideline for task development. 
-Formulating a strategy and following a success checklist will help you get the most out of your Project schedule. 
-Project Professional 2013 and Project Pro for Office 365 have essentially the same features, but the Office 365 version is available as a monthly subscription. 
-Use Backstage view to make changes that alter the schedule file as a whole (e.g. header). 
-Use the Ribbon to make changes within a schedule file by topic area (e.g. resources).
-Use the Quick Access toolbar for features that you always want available (e.g. undo). 
-Views are illustrations of information in your Project database and all data is dynamically connected no matter what view you make a change in. 
-Columns are fields in the database and you may show or hide them as needed. They are never permanently removed. 
-Use the Scroll to Task feature to quickly display timeline details for a specific task and eliminate unnecessary scrolling. 
-Keytips and keyboard shortcuts are alternative ways to navigate throughout Project without using the mouse. 
+
+1. Press the `F1` key or click the help icon in the top right-corner (question 
+   mark).
+2. Click the drop-down arrow on **Project Help** and choose the desired help 
+   option (online or not).
+3. Enter the terms you want to search on in the text box and press the Enter 
+   key or magnifier icon.
+
+## Key Points to Remember
+
+* Scheduling software offers benefits for managing budgets, resources, and tasks. 
+* Project is a database and offers many advantages; most importantly elimination 
+  of duplicate data entry. 
+* Determine the level of detail that is important to you before creating a 
+  schedule to provide a guideline for task development. 
+* Formulating a strategy and following a success checklist will help you get 
+  the most out of your Project schedule. 
+* Project Professional 2013 and Project Pro for Office 365 have essentially the 
+  same features, but the Office 365 version is available as a monthly subscription. 
+* Use Backstage view to make changes that alter the schedule file as a whole 
+  (e.g. header). 
+* Use the Ribbon to make changes within a schedule file by topic area 
+  (e.g. resources).
+* Use the Quick Access toolbar for features that you always want available 
+  (e.g. undo). 
+* Views are illustrations of information in your Project database and all data 
+  is dynamically connected no matter what view you make a change in. 
+* Columns are fields in the database and you may show or hide them as needed. 
+  They are never permanently removed. 
+* Use the Scroll to Task feature to quickly display timeline details for a 
+  specific task and eliminate unnecessary scrolling. 
+* Keytips and keyboard shortcuts are alternative ways to navigate throughout 
+  Project without using the mouse. 
