@@ -188,33 +188,24 @@ Email                             Will send the currently opened MS Project
 
 The next table provides a description of the export options available.
 
-<table>
-  <caption>Export Options from the File Tab</caption>
-  <thead>
-    <tr>
-    <th>Export</th>                 <th>Feature</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-    <td>Create PDF/XPS Document</td><td>A PDF of the current view will be
-                                        created and saved to disk</td>
-    </tr>
-    <tr>
-    <td>Save Project as File</td>   <td><p>This feature will allow for:</p>
-                                        <ul>
-                                        <li>Saving into earlier version formats of
-                                            MS Project files</li>
-                                        <li>Saving templates</li>
-                                        <li>Saving data to Excel, XML or another
-                                            type format. This option will also
-                                            start the MS Project Export Wizard
-                                            where data for exporting may be
-                                            selected.</li>
-                                        </ul></td>
-    </tr>
-  </tbody>
-</table>
+: Export Options from the File Tab
+
++---------------------------+------------------------------------------------+
+| Export                    | Feature                                        |
++===========================+================================================+
+| Create PDF/XPS Document   | A PDF of the current view will be created and  |
+|                           | saved to disk                                  |
++---------------------------+------------------------------------------------+
+| Save Project as File      | This feature will allow for:                   |
+|                           |                                                |
+|                           | - Saving into earlier version formats of MS    |
+|                           |   Project files                                |
+|                           | - Saving templates                             |
+|                           | - Saving data to Excel, XML or another type    |
+|                           |   format. This option will also start the MS   |
+|                           |   Project Export Wizard where data for         |
+|                           |   exporting may be selected.                   |
++---------------------------+------------------------------------------------+
 
 ![Export Project.](../assets/Export-project-screen-shot.png)
 

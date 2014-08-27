@@ -10,8 +10,8 @@ h1.title { }
 h2.author { }
 p{
   padding:0;
-  margin:0;
-  text-indent:2em;
+  margin: .25em 0 .75em;
+  text-indent:1em;
 }
 blockquote{
   margin-left:3em;
@@ -100,6 +100,8 @@ table tr.odd { background-color: #eeeeee; }
 
 table td:first-child { font-weight: bold;  padding-left: 0; }
 table td { padding: .5em; vertical-align: top; }
+
+table p { text-indent: 0; }
 
 #authors-and-versions table td { padding: 0 .5em; }
 #authors-and-versions table tr { background-color: transparent; }
