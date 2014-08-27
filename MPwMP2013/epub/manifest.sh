@@ -12,7 +12,9 @@ pandoc -S \
   ../markdown/how-to-use-this-book.markdown \
   ../markdown/introduction-to-project-management.markdown \
   ../markdown/overview-of-microsoft-project.markdown \
-  ../markdown/task-development.markdown
+  ../markdown/start-a-project.markdown \
+  ../markdown/task-development.markdown \
+  ../markdown/printing-and-reporting.markdown
 
 echo "Open EPUB? y(es) n(o)"
 read open_epub
