@@ -282,241 +282,608 @@ pressing that button will create a new project schedule
 
 ### Creating a Project from an Excel Workbook
 
-A project schedule can be created using an Excel Workbook task list. Keep in mind that the fields or columns that are being imported from Excel will be mapped to fields or columns within Project 2013. Pre-planning to know which Excel fields should be mapped to which Project 2013 fields would be helpful.
+A project schedule can be created using an Excel Workbook task list. Keep in
+mind that the fields or columns that are being imported from Excel will be
+mapped to fields or columns within Project 2013. Pre-planning to know which
+Excel fields should be mapped to which Project 2013 fields would be helpful.
+
 To create a project schedule from an Excel Workbook:
-Click File &rarr; New &rarr; New From Excel Workbook.
-Navigate to the Excel file that contains the tasks to be imported into the schedule, click Open.
-Project 2013 Import Wizard will start running -- Click Next.
-Select whether to use a new map that will be created or an existing Project import map. For this example we will create a new map. Click the radio button next to New Map and click Next.
-Import can start a new project file, append to the end of an existing project file or merge the data using a merge field. In this example we will create a new project schedule. Click As a new project and click Next.
-When the data is brought into Project 2013, select if the data is to be mapped to the Task fields, Resource fields or Assignment fields. Click Tasks.
-If the originating Excel file contains header or title information, click Import includes Headers. The system will remove this row (the first line only) as the header row. Click Next.
-The Task Mapping form will be used to view some of the data and map which Excel fields will be imported into which Project 2013 fields. Pull down the values in the Select worksheet name option and select the sheet name in Excel that contains the data to be imported. After the choice has been made, the data from the sheet will be available for viewing.
-In the example below, the duration field from the Excel Workbook was able to be automatically mapped to the duration field in Project 2013. However, the Task Name field could not find a match. The correct field name for the task name field in Project 2013 is "Name". Click the red error message (not mapped) and select the field name of Name. Repeat for other fields to be imported. Not all fields are required during the import process which allows the user to pick and choose which ones are appropriate to the schedule. Click Next to continue after all columns have been mapped.
 
-Mapping that is created in the Import Wizard.
-The next step offers the option to save the map for future use.
-To skip saving the map, click Next.
-To save the map, click Save Map and give the map a name.
-Click Finish to start the import.
-The new Project 2013 schedule will open with the columns imported.
-Creating a Project from a SharePoint Task List
-Project 2013 Professional allows for creating a new project by importing a task list from a SharePoint site. The user must have appropriate permissions to the access the SharePoint site and the URL path to insert into the form directing Project 2013 Pro to the location of the task list.
+ 1. Click **File** &rarr; **New** &rarr; **New From Excel Workbook**.
+
+ 2. Navigate to the Excel file that contains the tasks to be imported into the 
+    schedule, click **Open**.
+
+ 3. Project 2013 Import Wizard will start running -- Click **Next**.
+
+ 4. Select whether to use a new map that will be created or an existing Project 
+    import map. For this example we will create a new map. Click the radio 
+    button next to **New Map** and click **Next**.
+
+ 5. Import can start a new project file, append to the end of an existing 
+    project file or merge the data using a merge field. In this example we 
+    will create a new project schedule. Click **As a new project** and click 
+    **Next**.
+
+ 6. When the data is brought into Project 2013, select if the data is to be 
+    mapped to the Task fields, Resource fields or Assignment fields. Click 
+    **Tasks**.
+
+ 7. If the originating Excel file contains header or title information, click 
+    **Import includes Headers**. The system will remove this row (the first 
+    line only) as the header row. Click **Next**.
+
+ 8. The Task Mapping form will be used to view some of the data and map which 
+    Excel fields will be imported into which Project 2013 fields. Pull down the 
+    values in the **Select worksheet name option** and select the sheet name in 
+    Excel that contains the data to be imported. After the choice has been made, 
+    the data from the sheet will be available for viewing.
+
+ 9. In the example below, the duration field from the Excel Workbook was able 
+    to be automatically mapped to the duration field in Project 2013. However, 
+    the Task Name field could not find a match. The correct field name for the 
+    task name field in Project 2013 is "Name". Click the red error message 
+    (not mapped) and select the field name of **Name**. Repeat for other fields 
+    to be imported. Not all fields are required during the import process which 
+    allows the user to pick and choose which ones are appropriate to the 
+    schedule. Click **Next** to continue after all columns have been mapped.
+
+    ![Mapping that is created in the Import Wizard.](../assets/Creating-a-project-from-an-Excel-spreadsheet-fig-4-2.png)
+
+10. The next step offers the option to save the map for future use.
+
+    a. To skip saving the map, click **Next**.
+
+    b. To save the map, click **Save Map** and give the map a name.
+
+       Click **Finish** to start the import.
+
+11. The new Project 2013 schedule will open with the columns imported.
+
+### Creating a Project from a SharePoint Task List
+
+Project 2013 Professional allows for creating a new project by importing a task
+list from a SharePoint site. The user must have appropriate permissions to the
+access the SharePoint site and the URL path to insert into the form directing
+Project 2013 Pro to the location of the task list.
+
 To import tasks from a SharePoint task list into Project 2013 Professional:
-Click File &rarr; New &rarr; New from SharePoint Task List.
 
-Enter the URL for the existing SharePoint site that contains a task list to import into the open project schedule.
-Enter the URL in the form as shown above and click Change to Check Address. A list of all the task lists included in the SharePoint site will be displayed. Select the appropriate list and click OK.
+1. Click **File** &rarr; **New** &rarr; **New** from SharePoint Task List.
+
+   ![Enter the URL for the existing SharePoint site that contains a task list to import into the open project schedule.](../assets/import\ sharepoint\ tasks\ list.png)
+
+2. Enter the URL in the form as shown above and click **Change to Check Address**. 
+   A list of all the task lists included in the SharePoint site will be displayed. 
+   Select the appropriate list and click **OK**.
+
 The list will be imported from the SharePoint site.
 
-Calendar Overview
-Calendars in Project 2013 will determine when a task may be scheduled within the project schedule. It will also influence what defines a day, a week and a month within the project schedule. The calendars will also work hand-in-hand with the calendar options to determine when and how the tasks will be scheduled. Having the correct calendar applied to the project schedule before tasks are entered is essential for project scheduling success.
+<aside class="note callout">
+**Note**: This feature is available in Project 2013 Professional version only.
+</aside>
+
+## Calendar Overview
+
+Calendars in Project 2013 will determine when a task may be scheduled within
+the project schedule. It will also influence what defines a day, a week and a
+month within the project schedule. The calendars will also work hand-in-hand
+with the calendar options to determine when and how the tasks will be
+scheduled. Having the correct calendar applied to the project schedule before
+tasks are entered is essential for project scheduling success.
+
 We will explore:
-How calendars work in Project 2013
-How to Set Working Hours and Days
-How to Set Non-Working Hours and Days
-How to Set Calendar Options
-How Calendars Work in Project 2013?
-There are several types of calendars within the Project 2013 system. The following are definitions of available calendars:
-Project Calendar: The project calendar is the calendar assigned to a project and it defines the project working and non-working days. The default name for the Project Calendar is "Standard".
-Resource Calendar: Each resource will have its own calendar which may be based off of a base calendar or the project calendar. Unique resource calendars may also be created.
-Task Calendar: A task calendar is assigned to a task to allow for the scheduling of that task in a unique timeframe. For example: tasks which have to occur on a weekend.
 
-When a project schedule is created, a default calendar of "Standard" is applied to the schedule. This is called the Project Calendar for the project. The default values on the Standard calendar are: Monday through Friday which are working days, and working time is 8:00 am to 12:00 pm and 1:00 pm to 5:00 pm daily. No holidays are indicated on the calendar. The Standard calendar is also the calendar that will be viewed in the background of the Gantt Chart view. The Calendar Options work hand in hand with the Project Calendar to determine number of hours in a day or week and these values should be in sync with one another. The Calendar options will be discussed in the next section.
-By default, 2 additional calendars are included with MS Project 2013: a 24 hour calendar and a Night Shift calendar. Either of these may be used as Project, Resource or Task calendars.
-FAQ's
+1. How calendars work in Project 2013
+2. How to Set Working Hours and Days
+3. How to Set Non-Working Hours and Days
+4. How to Set Calendar Options
+
+### How Calendars Work in Project 2013?
+
+There are several types of calendars within the Project 2013 system. The
+following are definitions of available calendars:
+
+* **Project Calendar**: The project calendar is the calendar assigned to a 
+  project and it defines the project working and non-working days. The default 
+  name for the Project Calendar is "Standard".
+* **Resource Calendar**: Each resource will have its own calendar which may be 
+  based off of a base calendar or the project calendar. Unique resource 
+  calendars may also be created.
+* **Task Calendar**: A task calendar is assigned to a task to allow for the 
+  scheduling of that task in a unique timeframe. For example: tasks which have 
+  to occur on a weekend.
+
+<aside class="tip callout">
+**Tip**: A task will be scheduled based on the Project calendar until a
+resource is assigned to the task. At that time, the Resource calendar will
+control the scheduling of the task. Unless -- there is a task calendar assigned
+to a task which will override the Project calendar and the Resource calendar.
+</aside>
+
+When a project schedule is created, a default calendar of "Standard" is applied
+to the schedule. This is called the Project Calendar for the project. The
+default values on the Standard calendar are: Monday through Friday which are
+working days, and working time is 8:00 am to 12:00 pm and 1:00 pm to 5:00 pm
+daily. No holidays are indicated on the calendar. The Standard calendar is also
+the calendar that will be viewed in the background of the Gantt Chart view. The
+Calendar Options work hand in hand with the Project Calendar to determine
+number of hours in a day or week and these values should be in sync with one
+another. The Calendar options will be discussed in the next section.
+
+By default, 2 additional calendars are included with MS Project 2013: a 24 hour
+calendar and a Night Shift calendar. Either of these may be used as Project,
+Resource or Task calendars.
+
+#### FAQ's
+
 Q: Why are there no holidays on the calendars?
+
 A: This is an international program. Holidays vary from country to country.
-Q: Is there the ability to add holidays to a calendar the way they can be added in Outlook?
+
+Q: Is there the ability to add holidays to a calendar the way they can be added
+in Outlook?
+
 A: No -- this is not a capability of the software.
+
 Q: Do I have to recreate the calendar for each project?
-A: No -- calendars may be created and saved through the Organizer to be used in future projects. The Organizer will be covered later in this chapter.
 
-Setting Working Hours and Days
-After the project file has been created, decide what the working days (business days) of the project schedule will be. Decide also, how many hours will make up a working day and what times the hours will be. By default, the working days of the calendar are Monday through Friday and the working time is 8:00 am to 12:00 pm and 1:00 pm to 5:00 pm daily or 8 hours working per day.
+A: No -- calendars may be created and saved through the Organizer to be used in
+future projects. The Organizer will be covered later in this chapter.
+
+<aside class="tip callout">
+**Tip**: The default calendar name for the system is "Standard". If a different
+calendar name is selected, the Gantt Chart view will also require changing
+because the calendar which is displayed is set to Standard. This change can be
+made by right clicking in the Gantt view, selecting Non-working time and
+changing to the desired calendar. Most users keep the Standard calendar because
+of ease of use.
+</aside>
+
+### Setting Working Hours and Days
+
+After the project file has been created, decide what the working days (business
+days) of the project schedule will be. Decide also, how many hours will make up
+a working day and what times the hours will be. By default, the working days of
+the calendar are Monday through Friday and the working time is 8:00 am to 12:00
+pm and 1:00 pm to 5:00 pm daily or 8 hours working per day.
+
 To Change the Working Hours of all Days on a Calendar:
-Click Project &rarr; Change Working Time
-Check to ensure the calendar you wish to change is displayed in the For calendar list
-Click Work Weeks near the bottom of the dialogue box
 
-Change working time box used to change the working time of a selected calendar.
-After clicking on the Work Weeks tab, the word Default should be highlighted. Click the Details button to the right of the dialog box.
-Click Monday, press and hold the shift key and click on Friday. All of the working days will be selected.
-Click the 3rd radio button, Set day(s) to these specific working times.
-You will see the standard working times. Make changes to reflect the new values.
-Click Enter or Tab to move away from the value you have changed.
-Click OK to close the dialog box.
+1. Click **Project** &rarr; **Change Working Time**
+2. Check to ensure the calendar you wish to change is displayed in the 
+   **For calendar** list
+3. Click **Work Weeks** near the bottom of the dialogue box
 
-Change the time details of a selected day or group of days.
+![Change working time box used to change the working time of a selected calendar.](../assets/Calendar-setting-working-hours-&-days.png)
 
-Setting Non-Working Hours and Days
-Non-working time is defined in the MS Project 2013 as days where work will not be planned or performed. Examples are: national and organizational holidays, training days, company shut-downs, summer hours, etc. Adding these non-working days and times to the project calendar will prevent tasks being scheduled on these non-working days.
+1. After clicking on the **Work Weeks** tab, the word Default should be 
+   highlighted. Click the **Details** button to the right of the dialog box.
+2. Click **Monday**, press and hold the `shift` key and click on **Friday**. 
+   All of the working days will be selected.
+3. Click the 3rd radio button, **Set day(s) to these specific working times**.
+4. You will see the standard working times. Make changes to reflect the new values.
+5. Click `Enter` or `Tab` to move away from the value you have changed.
+6. Click **OK** to close the dialog box.
+
+![Change the time details of a selected day or group of days.](../assets/Calendar-setting-working-hourss-&-days-specific-time.png)
+
+<aside class="tip callout">
+**Tip**: Military time is valid when entering hour values. To change 5:00 pm to
+4:00 pm to shorten the work day, simply enter 16 where 5:00 pm is located and
+click `Enter` or `Tab` and 4:00 pm will appear.
+</aside>
+
+### Setting Non-Working Hours and Days
+
+Non-working time is defined in the MS Project 2013 as days where work will not
+be planned or performed. Examples are: national and organizational holidays,
+training days, company shut-downs, summer hours, etc. Adding these non-working
+days and times to the project calendar will prevent tasks being scheduled on
+these non-working days.
+
 To create a non-working day for a calendar:
-Click Project &rarr; Change Working Time
-Check to ensure sure that the calendar you wish to change is displayed in the For Calendar field
-Click Exceptions tab near the bottom of the dialogue box
 
-The Exceptions list is used to enter holidays or days that will be non-working days for the project.
-In this example, we will set May 23, 2016 as a non-working day. Move the slider on the right side of the calendar down until April 2016 is displayed in the calendar
-Click May 23, 2016
-Click in the name field and enter a reason for the non-working day, i.e.: Company holiday
-Click Enter
-Repeat for additional non-working days. See the result below
+1. Click **Project** &rarr; **Change Working Time**
 
-Change the working hours and days.
+2. Check to ensure sure that the calendar you wish to change is displayed in 
+   the **For Calendar** field
+
+3. Click **Exceptions** tab near the bottom of the dialogue box
+
+   ![The Exceptions list is used to enter holidays or days that will be non-working days for the project.](../assets/4-16-Calendar-setting-non-working-hours-&-days.png)
+
+4. In this example, we will set May 23, 2016 as a non-working day. Move the 
+   slider on the right side of the calendar down until **April 2016** is 
+   displayed in the calendar
+
+5. Click **May 23, 2016**
+
+6. Click in the name field and enter a reason for the non-working day, i.e.: 
+   Company holiday
+
+7. Click `Enter`
+
+8. Repeat for additional non-working days. See the result below
+
+   ![Change the working hours and days.](../assets/4-17-Calendar-setting-non-working-hours-&-days.png)
+
 To Create a Recurring Non-working Day for a Calendar:
-Click Project &rarr; Change Working Time
-Check to make sure that the calendar you wish to change is showing in the For calendar field
-Click the Exceptions tab near the bottom of the dialog box
-In this example, we will set January 1 (New Year's Day) as a recurring non-working day. Move the slider on the right side of the calendar down until January 2017 is displayed on the calendar
-Click January 1, 2017
-Click in the first open line in the Name field and enter New Year's Day for the non-working day
-Click Enter
-Click on the words New Year's Day and then click on the Details button to the right of the form
-Click Yearly
-Click on January 1
-Enter the start date
-Enter a recurrence value or an End by date
-Click OK to close box
-Check for the recurrence values in the Exceptions line for New Year's Day.
 
-Recurring holiday values on calendar.
-Setting Calendar Options
-The Calendar options work hand in hand with the project calendar to determine how tasks will be scheduled. It is imperative that the calendar options match the project calendar to create a consistency in the scheduling values for tasks and assignment values.
+ 1. Click **Project** &rarr; **Change Working Time**
+ 2. Check to make sure that the calendar you wish to change is showing in the 
+    **For calendar** field
+ 3. Click the **Exceptions** tab near the bottom of the dialog box
+ 4. In this example, we will set January 1 (New Year's Day) as a recurring 
+    non-working day. Move the slider on the right side of the calendar down 
+    until January 2017 is displayed on the calendar
+ 5. Click **January 1, 2017**
+ 6. Click in the first open line in the **Name** field and enter **New Year's Day** 
+    for the non-working day
+ 7. Click `Enter`
+ 8. Click on the words **New Year's Day** and then click on the **Details** 
+    button to the right of the form
+ 9. Click **Yearly**
+10. Click on January 1
+11. Enter the start date
+12. Enter a recurrence value or an End by date
+13. Click **OK** to close box
+14. Check for the recurrence values in the Exceptions line for New Year's Day.
+
+![Recurring holiday values on calendar.](../assets/Recurring-holiday-values-on-calendar.png)
+
+### Setting Calendar Options
+
+The Calendar options work hand in hand with the project calendar to determine
+how tasks will be scheduled. It is imperative that the calendar options match
+the project calendar to create a consistency in the scheduling values for tasks
+and assignment values.
+
 To access the Calendar options:
-Click File &rarr; Options &rarr; Schedule
 
-Calendar options should be adjusted if the calendar times are changed.
+Click **File** &rarr; **Options** &rarr; **Schedule**
+
+![Calendar options should be adjusted if the calendar times are changed.](../assets/4-18calendar-options.png)
+
 What the options mean:
-Calendar options for this project: option to select whether your choices for the calendar will be held within an individual project or if they will be applied to all new projects.
-Week starts on: this choice will affect what is assigned and viewed as the first day of the week. The day chosen will be reflected on the Gantt Chart, Resource Usage, Task Usage and other calendar views.
-Fiscal Year starts in: if using this option, select which month will be the start of the fiscal year.
-Default start and end times: these values should match the time values on the project calendar. Assigning the project calendar will be discussed in the next lesson. The times stated here will be used to schedule tasks when time is not specified for a task. It will also be used to schedule tasks that do not use relationships. For example: if recurring tasks are created, the tasks will always be scheduled at the start time represented in this option.
-Hours per day: when 1 day of work is scheduled, how many hours should 1 day consist of?
-Hours per week: when 1 week of work is scheduled, how many hours should 1 week consist of?
-Days per month: when 1 month of work is scheduled, how many days should 1 month consist of?
-Saving the Calendar
-In Project 2013, the calendar that was just created is known as a "custom object". Custom objects may be saved for use in the project the object was created in and used in other projects as well. To save objects the Organizer is used. When Project 2013 was installed on your system, a file named Global.mpt was created. The Organizer is the function that will copy objects into the Global.mpt as well as between project schedules. Calendars are only one of many object types that may be customized and saved for use in other project schedules. 
+
+* **Calendar options for this project**: option to select whether your choices 
+  for the calendar will be held within an individual project or if they will 
+  be applied to all new projects.
+* **Week starts on**: this choice will affect what is assigned and viewed as 
+  the first day of the week. The day chosen will be reflected on the Gantt 
+  Chart, Resource Usage, Task Usage and other calendar views.
+* **Fiscal Year starts in**: if using this option, select which month will be 
+  the start of the fiscal year.
+* **Default start and end times**: these values should match the time values 
+  on the project calendar. Assigning the project calendar will be discussed in 
+  the next lesson. The times stated here will be used to schedule tasks when 
+  time is not specified for a task. It will also be used to schedule tasks that 
+  do not use relationships. For example: if recurring tasks are created, the 
+  tasks will always be scheduled at the start time represented in this option.
+* **Hours per day**: when 1 day of work is scheduled, how many hours should 1 
+  day consist of?
+* **Hours per week**: when 1 week of work is scheduled, how many hours should 
+  1 week consist of?
+* **Days per month**: when 1 month of work is scheduled, how many days should 
+  1 month consist of?
+
+### Saving the Calendar
+
+In Project 2013, the calendar that was just created is known as a "custom
+object". Custom objects may be saved for use in the project the object was
+created in and used in other projects as well. To save objects the Organizer is
+used. When Project 2013 was installed on your system, a file named Global.mpt
+was created. The Organizer is the function that will copy objects into the
+Global.mpt as well as between project schedules. Calendars are only one of many
+object types that may be customized and saved for use in other project
+schedules. 
+
 To save the customized calendar, the object must be copied using the Organizer.
+
 To copy a New Base Calendar into the Global.mpt:
-Click File &rarr; Info &rarr; Organizer
-Click the Calendars tab
-Click Standard to the right and click <<Copy
-An error message will appear: "Do you want to replace the Standard in 'Global.mpt' with the Standard from '<project name.' Indicate "Yes."
-Click Cancel to close the box
 
-Use the Organizer to copy the updated calendar into your local Global.mpt file.
+1. Click **File** &rarr; **Info** &rarr; **Organizer**
+2. Click the **Calendars** tab
+3. Click **Standard** to the right and click **<<Copy**
+4. An error message will appear: "Do you want to replace the Standard in 
+   'Global.mpt' with the Standard from '<project name.'" Indicate "Yes."
+5. Click **Cancel** to close the box
+
+![Use the Organizer to copy the updated calendar into your local Global.mpt file.](../assets/4-19-Organizer-calendar-view.png)
+
 The Calendar will be copied into your local Global.mpt.
-Project Information
-The project information that should be entered before proceeding with project schedule development is the project start or project finish date as well as indicating which calendar will be used as the project calendar. This information is entered through the Project Information box.
+
+## Project Information
+
+The project information that should be entered before proceeding with project
+schedule development is the project start or project finish date as well as
+indicating which calendar will be used as the project calendar. This
+information is entered through the Project Information box.
+
 To navigate to the Project Information dialog box:
-Click Project &rarr; Project Information
-Deciding whether to enter the Project Start date or the Project Finish date will take some consideration. There are pros and cons to either choice:
+
+Click **Project** &rarr; **Project Information**
+
+Deciding whether to enter the Project Start date or the Project Finish date
+will take some consideration. There are pros and cons to either choice:
+
 FAQ: Should I enter a project start and finish date?
-Answer: Project 2013 will accept either the start or the finish date but not both.
-Entering a start date will indicate that you are planning your schedule as forward scheduling. This will result in:
-All tasks will be scheduled As soon as possible
-The work of the project will determine the project ending date
-You will have a date to manage your project to, and know when you are on time or late with the progress of the project
-Entering a finish date will indicate that you are planning your schedule as backward scheduling. This will result in:
-All tasks will be scheduled As late as possible
-The ending date of the project will be locked to a date on the calendar
-You might be planning a project where each task will be required to be completed as planned to achieve the ending date goals.
-The most used planning method is that projects are planned from the project start date.
-Project Calendar: The default calendar is "Standard". Whatever calendar is selected will become the scheduling calendar for the project. All tasks will be scheduled using this calendar until a resource is assigned to the task.
-Click OK to close the box.
 
-Project Information box.
+Answer: Project 2013 will accept either the start or the finish date but not
+both.
 
-Options
-The last action you should perform before entering your first task is to set some of the options to match the requirements of your project.
-Options are flexible in that they can be applied per unique project or to all new projects created on your computer. In this section we will discuss the options that will affect scheduling. These options are in addition to the calendar options discussed earlier in this chapter.
-General vs Per Project Options
-General options are options which affect how the installation of Project 2013 on a desktop will operate. Per Project options are options that will apply to a unique project. You may optionally apply the per project options to all new projects.
-Display options are options that will help the user interact with Project 2013 software. The options selected are unique to each user and are a personal preference. These options do not have an influence on the ability to create a project schedule.
+Entering a start date will indicate that you are planning your schedule as
+forward scheduling. This will result in:
+
+* All tasks will be scheduled As soon as possible
+* The work of the project will determine the project ending date
+* You will have a date to manage your project to, and know when you are on 
+  time or late with the progress of the project
+
+Entering a finish date will indicate that you are planning your schedule as
+backward scheduling. This will result in:
+
+* All tasks will be scheduled As late as possible
+* The ending date of the project will be locked to a date on the calendar
+* You might be planning a project where each task will be required to be 
+  completed as planned to achieve the ending date goals.
+
+The most used planning method is that projects are planned from the project
+start date.
+
+**Project Calendar**: The default calendar is "Standard". Whatever calendar is
+selected will become the scheduling calendar for the project. All tasks will be
+scheduled using this calendar until a resource is assigned to the task.
+
+Click **OK** to close the box.
+
+![Project Information box.](../assets/4-21-Project-Infomation-box.png)
+
+<aside class="tip callout">
+**Tip**: Most project managers have definite deadlines. Consider planning the
+schedule from ending date to get the schedule short term goals, deadlines and
+milestone dates. Then switch the project to the start date to manage. Reset the
+constraints to as soon as possible to enable the schedule to include slack and
+aid in schedule management.
+</aside>
+
+## Options
+
+The last action you should perform before entering your first task is to set
+some of the options to match the requirements of your project.
+
+Options are flexible in that they can be applied per unique project or to all
+new projects created on your computer. In this section we will discuss the
+options that will affect scheduling. These options are in addition to the
+calendar options discussed earlier in this chapter.
+
+### General vs Per Project Options
+
+General options are options which affect how the installation of Project 2013
+on a desktop will operate. Per Project options are options that will apply to a
+unique project. You may optionally apply the per project options to all new
+projects.
+
+Display options are options that will help the user interact with Project 2013
+software. The options selected are unique to each user and are a personal
+preference. These options do not have an influence on the ability to create a
+project schedule.
+
 To navigate to General options:
-Click File &rarr; Options &rarr; General
-In the Project view section, the user may select the default view for usage of Project 2013 and the date format for dates for reports and views (table portion of a view).
 
-General Options view.
+Click **File** &rarr; **Options** &rarr; **General**
+
+In the Project view section, the user may select the default view for usage of
+Project 2013 and the date format for dates for reports and views (table portion
+of a view).
+
+![General Options view.](../assets/4-22-general-options.png)
+
 To navigate to Display options:
-Click File &rarr; Options &rarr; Display
-These options refer to which elements should be viewed on the screen. These options will control which indicators are shown in the indicator column, currency values and if the Entry bar is visible or not.
 
-Display options view.
+Click **File** &rarr; **Options** &rarr; **Display**
+
+These options refer to which elements should be viewed on the screen. These
+options will control which indicators are shown in the indicator column,
+currency values and if the Entry bar is visible or not.
+
+![Display options view.](../assets/change-how-project-content-is-displayed-on-the-screen.png)
+
 Additional display options are available at:
-Click File &rarr; Options &rarr; Advanced
-Some of the options that should be considered are:
-Show this number of recent documents -- optional number, list will show in the Recent tab in the backstage
-Automatically add new views, tables, filters and groups to the global - recommended
-Settings for duration label values -- Minutes, Days, etc. - may alter as needed
-Show project summary task -- recommended
 
-These display options are in the Advanced options section.
+Click **File** &rarr; **Options** &rarr; **Advanced**
+
+Some of the options that should be considered are:
+
+* **Show this number of recent documents** -- optional number, list will show 
+  in the Recent tab in the backstage
+* **Automatically add new views, tables, filters and groups to the global** -- 
+  recommended
+* **Settings for duration label values** -- Minutes, Days, etc. - may alter as 
+  needed
+* **Show project summary task** -- recommended
+
+![These display options are in the Advanced options section.](../assets/4=24-display-options-in-the-advanced-options.png)
+
+<aside class="tip callout">
+**Tip**: Each project schedule has the ability to contain a Project Summary
+task. The Project Summary task is a zero level task that will serve as a
+constant grand total for the project schedule. The setting in the above option
+may be used to turn on the project summary task by default for all projects.
+</aside>
 
 To turn on the Project Summary task:
-Click Task &rarr; Gantt Chart
-Click Format &rarr; Project Summary Task (on the right side of the ribbon)
-Scheduling Options
-To understand the Scheduling options it would be helpful to review some of the scheduling terms the options are referring to. 
-Project's scheduling engine uses the terms "Duration" and "Work" which are fundamental to understanding project scheduling. 
-Definitions
-Duration: 
-Is a length of time i.e.: a day, a week, or a month
-It is the amount of actual time that will pass before a task is completed
-Work: 
-Is the quantity of work that occurs i.e.: 8 hours in one day, 40 hours in a week
-It is the amount of work (effort or man hours) which a resource(s) will work to complete the task
 
-Effort-driven scheduling
-Tasks have the option of being scheduled using Effort-driven scheduling. Effort-driven scheduling is defined as when more workers are added to a task, the effort (or work) will be divided across the workers. 
-For example: A project has a task called "Moving Boxes". The work of the task is to move 100 boxes from location A to B. If one person moves the boxes, it will take 10 hours of duration moving 10 boxes per hour. However, if 2 people move the boxes it will take 5 hours, 3 people can accomplish this task in one-third of the original time, etc. 
-With effort-driven scheduling the duration of the task will shorten when more workers are added because the work is divided over the resources. 
-Understanding Task Types
-Each task will be assigned a task type when the task is added to the schedule. Task types work hand-in-hand with the effort-driven option discussed above. Task types will determine how a task is scheduled and will have an effect on the assignment of the resources to the task. Task types are considered unique per task and may be set on a task by task basis. 
-The option setting is to establish the default task type you would like each task to acquire when it is entered. Task types may be changed to match the needs of the tasks at a later point in time. 
+Click **Task** &rarr; **Gantt Chart**
+
+Click **Format** &rarr; **Project Summary Task** (on the right side of the ribbon)
+
+## Scheduling Options
+
+To understand the Scheduling options it would be helpful to review some of the
+scheduling terms the options are referring to. 
+
+Project's scheduling engine uses the terms "Duration" and "Work" which are
+fundamental to understanding project scheduling. 
+
+### Definitions
+
+* **Duration**: 
+    * Is a length of time i.e.: a day, a week, or a month
+    * It is the amount of actual time that will pass before a task is completed
+* **Work**: 
+    * Is the quantity of work that occurs i.e.: 8 hours in one day, 40 hours in 
+      a week
+    * It is the amount of work (effort or man hours) which a resource(s) will 
+      work to complete the task
+
+<aside class="tip callout">
+**Tip**: It is very helpful within an organization to have a standard for these
+terms  (i.e., all work will be planned in hours and all durations will be
+planned in days). 
+</aside>
+
+### Effort-driven scheduling
+
+Tasks have the option of being scheduled using Effort-driven scheduling.
+Effort-driven scheduling is defined as when more workers are added to a task,
+the effort (or work) will be divided across the workers. 
+
+For example: A project has a task called "Moving Boxes". The work of the task
+is to move 100 boxes from location A to B. If one person moves the boxes, it
+will take 10 hours of duration moving 10 boxes per hour. However, if 2 people
+move the boxes it will take 5 hours, 3 people can accomplish this task in
+one-third of the original time, etc. 
+
+With effort-driven scheduling the duration of the task will shorten when more
+workers are added because the work is divided over the resources. 
+
+### Understanding Task Types
+
+Each task will be assigned a task type when the task is added to the schedule.
+Task types work hand-in-hand with the effort-driven option discussed above.
+Task types will determine how a task is scheduled and will have an effect on
+the assignment of the resources to the task. Task types are considered unique
+per task and may be set on a task by task basis. 
+
+The option setting is to establish the default task type you would like each
+task to acquire when it is entered. Task types may be changed to match the
+needs of the tasks at a later point in time. 
+
 Project 2013 allows for the following 3 task types: 
-Fixed Duration: A fixed duration task is a task created with a fixed length of time. Fixed Duration tasks are also tied to dates.
-Example: This training class. When the time scheduled for this class is over, the work of the class is completed. 
-Fixed Units: Units means quantity of a resource. Fixed Units means that the resource assignment quantity is fixed for the task. Using this task type will result in the quantity of the units assigned to a task coupled with the availability of the resource to determine the scheduling of the task. 
-Example: If you assign a resource to a 5 day, 40 hour task at 100% of their effort the task will be completed in 5 days working 8 hours per day. If you assign a resource to the same task with 50% of their effort, the task will be worked 4 hours per day and will be scheduled for 10 days of duration. The 100% and 50% are the resource units. 
-Fixed Work: The work of the task is fixed. Fixed work tasks, by default, are also effort-driven. The more resources assigned to the task, the less time the task will take to be complete. Fixed work tasks will be scheduled based on the quantity of the units of the resources assigned to the task and their availability based on their resource calendar. 
-Example: If a task called "Plan event" will take 80 hours of work to complete, the work will be completed in 2 weeks with 1 full time resource. If a second resource is added full time, the task will be completed in 1 week dividing the work between the 2 resources. Each resource would have performed 50% of the work. As resources are added to the task, the duration of the task is reduced. 
-Task type, Effort-driven combinations
-When task types are coupled with the effort-driven option, the scheduling engine allows for the following task type, effort-driven combinations: 
-Fixed Duration, Effort-driven on
-Fixed Duration, Effort-driven off
-Fixed Units, Effort-driven on
-Fixed Units, Effort-driven off
-Fixed Work, Effort-driven on
-The project options will allow for setting a default that each task will be assigned when the task is entered. It should be noted that each task is different and unique. The default should be considered a starting point. 
 
-Scheduling Options
-Scheduling options are per project options which establish the defaults of how a project will be scheduled. These options are unique per project and should be checked before entering tasks into a project schedule. These options also may be changed at any time over the life of the project schedule.
+  * **Fixed Duration**: A fixed duration task is a task created with a fixed
+    length of time. Fixed Duration tasks are also tied to dates.
+
+    Example: This training class. When the time scheduled for this class is over,
+    the work of the class is completed. 
+
+  * **Fixed Units**: Units means quantity of a resource. Fixed Units means that
+    the resource assignment quantity is fixed for the task. Using this task type
+    will result in the quantity of the units assigned to a task coupled with the
+    availability of the resource to determine the scheduling of the task. 
+
+    Example: If you assign a resource to a 5 day, 40 hour task at 100% of their
+    effort the task will be completed in 5 days working 8 hours per day. If you
+    assign a resource to the same task with 50% of their effort, the task will be
+    worked 4 hours per day and will be scheduled for 10 days of duration. The 100%
+    and 50% are the resource units. 
+
+  * **Fixed Work**: The work of the task is fixed. Fixed work tasks, by default,
+    are also effort-driven. The more resources assigned to the task, the less time
+    the task will take to be complete. Fixed work tasks will be scheduled based on
+    the quantity of the units of the resources assigned to the task and their
+    availability based on their resource calendar. 
+
+    Example: If a task called "Plan event" will take 80 hours of work to
+    complete, the work will be completed in 2 weeks with 1 full time resource. If
+    a second resource is added full time, the task will be completed in 1 week
+    dividing the work between the 2 resources. Each resource would have performed
+    50% of the work. As resources are added to the task, the duration of the task
+    is reduced. 
+
+#### Task type, Effort-driven combinations
+
+When task types are coupled with the effort-driven option, the scheduling
+engine allows for the following task type, effort-driven combinations: 
+
+* Fixed Duration, Effort-driven on
+* Fixed Duration, Effort-driven off
+* Fixed Units, Effort-driven on
+* Fixed Units, Effort-driven off
+* Fixed Work, Effort-driven on
+
+The project options will allow for setting a default that each task will be
+assigned when the task is entered. It should be noted that each task is
+different and unique. The default should be considered a starting point. 
+
+<aside class="tip callout">
+**Tip**: This is a brief introduction to this topic. Detailed coverage of task
+types and effort driven settings with assignments will be addressed throughout
+[Work Assignments](#work-assignments). 
+</aside>
+
+### Scheduling Options
+
+Scheduling options are per project options which establish the defaults of how
+a project will be scheduled. These options are unique per project and should be
+checked before entering tasks into a project schedule. These options also may
+be changed at any time over the life of the project schedule.
+
 To set the scheduling options:
-Click File &rarr; Options &rarr; Schedule
 
-Schedule options.
-Show scheduling messages: gives the scheduler error messages concerning scheduling inconsistencies and warnings.
-Show assignment units as a: options are percentage or decimal. This is a user preference. It may be changed at any time without affecting the schedule.
-Scheduling options for this project: options that can be assigned to a specific project or all projects.
-New tasks created: manually scheduled or automatically scheduled. This is the default value and may be adjusted per task.
-Manually scheduled: tasks will be entered without a start or finish date and without task duration. All values are entered manually.
-Auto scheduled: tasks will be entered with a default duration of 1 day and a start and finish date.
-Auto scheduled tasks scheduled on: project state date or current date. If you are managing a long project it might be easier to change this option for all new tasks to start on the current date.
-Duration is entered in: minutes, hours, days, weeks, months
-Work is entered in: minutes, hours, days, weeks, months
-Default task type: Fixed Units, Fixed Duration, or Fixed Work
-New tasks are effort driven: check for yes
-Update Manually Scheduled tasks when updating links: when tasks are manually scheduled should the project schedule successor tasks adjust based on relationship links
+Click **File** &rarr; **Options** &rarr; **Schedule**
 
-Key Points to Remember
-You can use a template or create a project from Excel or SharePoint tasks. 
-Schedules can be saved into alternate formats including PDF, older versions of Project and Excel formats. 
-The Project calendar is where corporate holidays are recorded. These holidays become non-working days in the schedule.
-Calendar options can be refined to tailor the Gantt Chart view or to better match the corporate working hours.
-Project information is where you set the scheduling mode and date the schedule calculates from.
-Within Project Options, general options apply to every schedule while per project options apply to only a specific schedule.
-Duration is the length of time for a task while Work is the hours for a task.
-Effort-driven scheduling means that work will be distributed across resources.
- A combination of task type and effort-driven settings may be used to achieve the desired task scheduling.
+![Schedule options.](../assets/4-27-schedule-options.png)
+
+* **Show scheduling messages**: gives the scheduler error messages concerning
+  scheduling inconsistencies and warnings.
+* **Show assignment units as a**: options are percentage or decimal. This is a
+  user preference. It may be changed at any time without affecting the
+  schedule.
+* **Scheduling options for this project**: options that can be assigned to a
+  specific project or all projects.
+* **New tasks created**: manually scheduled or automatically scheduled. This is
+  the default value and may be adjusted per task.
+    * **Manually scheduled**: tasks will be entered without a start or finish
+      date and without task duration. All values are entered manually.
+    * **Auto scheduled**: tasks will be entered with a default duration of 1 day
+      and a start and finish date.
+* **Auto scheduled tasks scheduled on**: project state date or current date. If
+  you are managing a long project it might be easier to change this option for
+  all new tasks to start on the current date.
+* **Duration is entered in**: minutes, hours, days, weeks, months
+* **Work is entered in**: minutes, hours, days, weeks, months
+* **Default task type**: Fixed Units, Fixed Duration, or Fixed Work
+* **New tasks are effort driven**: check for yes
+* **Update Manually Scheduled tasks when updating links**: when tasks are
+  manually scheduled should the project schedule successor tasks adjust based
+  on relationship links
+
+<aside class="tip callout">
+**Tip**: It is a good idea within an organization to establish a standard for
+Duration and Work. When duration is discussed or appears on a report it will be
+easier for stakeholders to understand that duration always means hours or days
+or the value you choose as the standard for projects. If you have a 3 year
+project, you probably will not be planning work at the hour level so weeks
+might be the duration standard.
+</aside>
+
+## Key Points to Remember
+
+* You can use a template or create a project from Excel or SharePoint tasks. 
+* Schedules can be saved into alternate formats including PDF, older versions 
+  of Project and Excel formats. 
+* The Project calendar is where corporate holidays are recorded. These holidays 
+  become non-working days in the schedule.
+* Calendar options can be refined to tailor the Gantt Chart view or to better 
+  match the corporate working hours.
+* Project information is where you set the scheduling mode and date the schedule 
+  calculates from.
+* Within Project Options, general options apply to every schedule while per 
+  project options apply to only a specific schedule.
+* Duration is the length of time for a task while Work is the hours for a task.
+* Effort-driven scheduling means that work will be distributed across resources.
+* A combination of task type and effort-driven settings may be used to achieve 
+  the desired task scheduling.

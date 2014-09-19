@@ -14,6 +14,7 @@ pandoc -S \
   ../markdown/overview-of-microsoft-project.markdown \
   ../markdown/start-a-project.markdown \
   ../markdown/task-development.markdown \
+  ../markdown/work-assignments.markdown \
   ../markdown/printing-and-reporting.markdown
 
 echo "Open EPUB? y(es) n(o)"
