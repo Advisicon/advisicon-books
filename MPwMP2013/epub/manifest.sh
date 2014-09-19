@@ -1,25 +1,28 @@
 #!/bin/bash
 
+CSS_PATH="../css"
+MARKDOWN_PATH="../markdown"
+
 echo "Compiling CSS"
 
-sass --load-path ../css/ ../css/epub.scss ../css/epub.css
+sass --load-path $CSS_PATH/ $CSS_PATH/epub.scss $CSS_PATH/epub.css
 
 echo "Generating EPUB"
 
 pandoc -S \
-  --epub-stylesheet ../css/epub.css \
+  --epub-stylesheet $CSS_PATH/epub.css \
   --epub-metadata ../MPwMP2013/epub/metadata.xml \
   --toc \
   --toc-depth 1 \
   -o test.epub ../MPwMP2013/epub/title.txt \
   ../MPwMP2013/epub/frontmatter.markdown \
-  ../markdown/how-to-use-this-book.markdown \
-  ../markdown/introduction-to-project-management.markdown \
-  ../markdown/overview-of-microsoft-project.markdown \
-  ../markdown/start-a-project.markdown \
-  ../markdown/task-development.markdown \
-  ../markdown/work-assignments.markdown \
-  ../markdown/printing-and-reporting.markdown
+  $MARKDOWN_PATH/how-to-use-this-book.markdown \
+  $MARKDOWN_PATH/overview-of-microsoft-project.markdown \
+  $MARKDOWN_PATH/start-a-project.markdown \
+  $MARKDOWN_PATH/task-development.markdown \
+  $MARKDOWN_PATH/estimating-linking-and-lead-and-lag.markdown \
+  $MARKDOWN_PATH/work-assignments.markdown \
+  $MARKDOWN_PATH/printing-and-reporting.markdown
 
 echo "Open EPUB? y(es) n(o)"
 read open_epub
