@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo "Compiling CSS"
+
+sass --load-path ../css/ ../css/epub.scss ../css/epub.css
+
 echo "Generating EPUB"
 
 pandoc -S \

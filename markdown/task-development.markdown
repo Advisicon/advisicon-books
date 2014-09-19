@@ -791,163 +791,207 @@ project schedule is in danger of becoming another project.
 * Every summary task should have at least two subtasks. Detail tasks and milestones 
   can be in the WBS without being part of a summary task grouping. 
 
- Establish maximum and minimum lengths of duration for tasks. Create a rule of thumb based on the length of each project. For example: If you have a 6 month project no task should be less than 1 day and no task will be longer than 2 weeks. Use the rule as a guide for estimating task lengths. If tasks are too long, break the work down further. 
+* Establish maximum and minimum lengths of duration for tasks. Create a rule of
+  thumb based on the length of each project. For example: If you have a 6 month
+  project no task should be less than 1 day and no task will be longer than 2
+  weeks. Use the rule as a guide for estimating task lengths. If tasks are too
+  long, break the work down further. 
 
- Decide if you will be creating a WBS in the rolling wave approach. The rolling wave approach is used for schedules managing software development or any schedule where all of the details of the project are not known at the beginning of the project. Consider creating placeholders for future phases of the project and elaborate the work one phase at a time. 
+* Decide if you will be creating a WBS in the rolling wave approach. The
+  rolling wave approach is used for schedules managing software development or
+  any schedule where all of the details of the project are not known at the
+  beginning of the project. Consider creating placeholders for future phases of
+  the project and elaborate the work one phase at a time. 
 
- Deliverables: Completing a section of work means that the deliverable of that section has been accepted. Create a task for the delivery of the deliverable and create a milestone to represent the acceptance of the deliverable. The two rarely occur at the same time. 
+* Deliverables: Completing a section of work means that the deliverable of that
+  section has been accepted. Create a task for the delivery of the deliverable
+  and create a milestone to represent the acceptance of the deliverable. The
+  two rarely occur at the same time. 
 
- Level of detail. The WBS may contain as many levels of detail as you need but best practices suggest that the more levels the more complex the schedule becomes. Recommendations suggest that the detail is manageable using five or less levels. 
+* Level of detail. The WBS may contain as many levels of detail as you need but
+  best practices suggest that the more levels the more complex the schedule
+  becomes. Recommendations suggest that the detail is manageable using five or
+  less levels. 
 
- If too much detail is put into the project schedule, the schedule will become a project unto itself. The more tasks, the more work. 
+* If too much detail is put into the project schedule, the schedule will become
+  a project unto itself. The more tasks, the more work. 
 
- Use the WBS to help manage the scope of your project. If the task isn't in the project, consider it out of scope. When you enter tasks into the project schedule, ask yourself if the task is necessary. 
+* Use the WBS to help manage the scope of your project. If the task isn't in
+  the project, consider it out of scope. When you enter tasks into the project
+  schedule, ask yourself if the task is necessary. 
+
+* When planning the WBS think about just the work of the project. Many project
+  managers like to start thinking about who will do the work and when. It is a
+  good idea to focus on the work of the project only and think of the work as
+  the "what" of the project. The "who" and "when" will come as the project
+  schedule develops. 
+
+* Having the project team or the top level resources help build the WBS for a
+  project is a win-win for the project:
+
+    * Increases resource buy in
 
- When planning the WBS think about just the work of the project. Many project managers like to start thinking about who will do the work and when. It is a good idea to focus on the work of the project only and think of the work as the "what" of the project. The "who" and "when" will come as the project schedule develops. 
+    * Encourages resource contribution
+
+    * Provides feedback on problems from different angles
 
- Having the project team or the top level resources help build the WBS for a project is a win-win for the project:
+    * Lowers probability of missing tasks
 
- Increases resource buy in
+    * Encourages team building
 
- Encourages resource contribution
+## Milestones
 
- Provides feedback on problems from different angles
+A milestone is a check point in your project. It is a status, not a task which
+means that it has no duration and no resources are needed. For example, an
+approval or sign-off before the project can proceed and the completion of a
+stage of the project are both milestones. To Project, a milestone is a task
+with a zero duration.
 
- Lowers probability of missing tasks
+To enter a milestone, use the following steps:
 
- Encourages team building
+1. Insert a new task, or click the Task Name of a blank task.
+2. Type the name for the milestone in the **Task Name** field and press the 
+   `Tab` key.
+3. Type `0` in the Duration field, and press the `Enter` key.
 
- Milestones
+Milestones are denoted in the Gantt Chart as a diamond symbol, rather than a
+bar (since the milestone has no duration).
 
- A milestone is a check point in your project. It is a status, not a task which means that it has no duration and no resources are needed. For example, an approval or sign-off before the project can proceed and the completion of a stage of the project are both milestones. To Project, a milestone is a task with a zero duration.
+![In this view tasks 5, 10 and 14 are milestones. They have a zero duration and a milestone icon on the Gantt chart.](../assets/Milestone-shot.png)
 
- To enter a milestone, use the following steps:
+## Manual vs Automatic
+
+Project 2013 provides two scheduling methods for creating project schedules.
+The methods are the traditional or automatic scheduling and manual scheduling.
 
- Insert a new task, or click the Task Name of a blank task.
+### Traditional or Automatic Scheduling
 
- Type the name for the milestone in the Task Name field and press the Tab key.
+This scheduling method was used in prior versions of Microsoft Project and is
+contained in Project 2013. After tasks are entered relationships or
+dependencies are created between the tasks. The task durations with their
+relationships established the timeline for the schedule. This scheduling method
+allows for bottom up scheduling where the sum of the detail tasks establishes
+the timeline for the project.
 
- Type "0" in the Duration field, and press the Enter key.
+### Manual Scheduling
 
- Milestones are denoted in the Gantt Chart as a diamond symbol, rather than a bar (since the milestone has no duration).
+Manual scheduling allows for top-down scheduling where summary tasks may be
+added first and the details of the project work is completed later. It also
+permits more unknowns during the scheduling process and the ability to complete
+the details when known. Tasks do not have to contain relationships and dates or
+freeform text may be entered.
 
+Project scheduling mode will be selected on a task by task basis. Manually
+scheduled tasks and automatic scheduled tasks may be mixed within the same
+project schedule. Each task will contain a column called task mode which will
+establish the scheduling mode assigned to a task.
 
+### When to Use Manual vs. Automatic Scheduling
 
- In this view tasks 5, 10 and 14 are milestones. They have a zero duration and a milestone icon on the Gantt chart.
-
- Manual vs Automatic
-
- Project 2013 provides two scheduling methods for creating project schedules. The methods are the traditional or automatic scheduling and manual scheduling.
-
- Traditional or Automatic Scheduling
-
- This scheduling method was used in prior versions of Microsoft Project and is contained in Project 2013. After tasks are entered relationships or dependencies are created between the tasks. The task durations with their relationships established the timeline for the schedule. This scheduling method allows for bottom up scheduling where the sum of the detail tasks establishes the timeline for the project.
-
- Manual Scheduling
-
- Manual scheduling allows for top-down scheduling where summary tasks may be added first and the details of the project work is completed later. It also permits more unknowns during the scheduling process and the ability to complete the details when known. Tasks do not have to contain relationships and dates or freeform text may be entered.
-
- Project scheduling mode will be selected on a task by task basis. Manually scheduled tasks and automatic scheduled tasks may be mixed within the same project schedule. Each task will contain a column called task mode which will establish the scheduling mode assigned to a task.
-
- When to Use Manual vs. Automatic Scheduling
-
- Manual vs. automatic scheduling usage will deliver very different results. The amount of information concerning the project that is available to the scheduler when the schedule is created might lend the scheduler to select one method over the other when creating the initial schedule. It may be advantageous to use both scheduling methods within a schedule switching between scheduling methods when needed. 
-
- Use Manual Scheduling When
-
- Minimal information is available about the project and you need to put your ideas (tasks and durations) into an initial schedule. 
-
- Tasks are assigned to specific dates and you are not comfortable with the schedule moving as other tasks are entered or as resources are assigned. 
-
- Using top-down planning -- entering duration values for summary tasks followed by detail tasks and milestones to complete the work of the summary tasks. 
-
- Using free form planning of tasks and durations to produce a Gantt chart.
-
- Need to build a rough schedule for a future project
-
- Relationships between tasks are not known.
-
- Use Automatic Scheduling When
-
- More complete information is known about the goals of the project. 
-
- Using bottom up planning. Enter the summary tasks and create the WBS structure. The detail tasks within the summaries will calculate the duration of the summary tasks. 
-
- You want the schedule to be dynamic. Tasks will be adjusted reacting to changes within the schedule. 
-
- You want the scheduling engine to calculate dates in the schedule.
-
- Resource allocations, resource assignments based on hours, earned value analysis or more accurate metrics are needed. 
-
- Consider Using a Combination of Both Methods When
-
- Initial planning may be in manual mode. As decisions are made and more detail is known, tasks may be converted to automatic mode. 
-
- Consider converting to automatic mode when project execution begins. This may be done for the entire project, by phase or range of tasks. 
-
- Change to Auto Schedule
-
- The column or field in Project 2013 that determines which scheduling mode a task is in is called "Task Mode". By default, you will see this field on the Entry table of the Gantt Chart. This column may be added to any task table.
-
- Setting the automatic or manual scheduling mode may be accomplished in several ways:
-
- To set the scheduling mode for a project or for all future projects:
-
- File &rarr; Options &rarr; Schedule
-
- Choose the option from Scheduling options for this project
-
- Choose the option from New tasks created
-
-
-
- Task Schedule Options from the Project Options Dialog Box.
-
- After several tasks are entered you may decide to switch to a different scheduling mode for the addition of future tasks for the project. This can be done quickly using the option at the bottom left hand corner of the Gantt Chart view which is shown below. Changing this option will not affect existing tasks in the schedule; it will only affect future added tasks. Click on the button highlighted below for the option to change scheduling modes:
-
-
-
- Task Schedule Options from the Status Bar.
-
- The default Entry Table for the Gantt Chart includes the "Task Mode" column inserted to the left of the Task Name column. This column may be inserted into any table as needed. The indicators in this column indicate the scheduling mode for the task. In the view below the automatically scheduled tasks have a Gantt bar with an arrow icon and the manually scheduled tasks have a push pin icon in the Task Mode column. Hover your mouse pointer over the icon and the scheduling mode description will appear. Clicking on the arrow next to the icon will allow for scheduling mode changes per task. Note the different Gantt bar formats for manual v automatically scheduled tasks.
-
-
-
- Gantt Chart View Showing the Task Mode Column in the Entry Table.
-
- To change the scheduling mode from the Task tab:
-
- Click the task to be changed
-
- Click Task &rarr; Manual Schedule or Automatic Schedule
-
-
-
- Task Schedule Options from the Task Tab on the Ribbon.
-
- Another way to change the scheduling mode is to double click a task to open the Task Information dialog box. An option is located on the General tab to change the scheduling mode. The options are highlighted in the view below.
-
-
-
- Task Schedule Options from the Task Information Dialog Box.
-
- Key Points to Remember
-
- Project is capable of handling any scheduling methodology, not just traditional waterfall. You can also use a combination of approaches within one schedule such as Waterfall with an Agile component. 
-
- Organizing your schedule hierarchically into a Work Breakdown Structure (WBS) can assist with reporting to management and schedule maintenance. 
-
- Use 5 or less outline levels in your WBS.
-
- Custom WBS numbers allow you to create a code for each task that does not match the outline numbers built-in to Project. 
-
- Consider following a naming approach and structure to each section in your schedule for consistency across projects. 
-
- Use milestones to capture goals and give them a duration of 0. 
-
- Selecting the task number (ID) is a best practice before inserting, deleting, moving, or copying a task. 
-
- Use manual and automatic scheduling where appropriate to give control of the task planning to the scheduler or project manager.  
-
-
-
+Manual vs. automatic scheduling usage will deliver very different results. The
+amount of information concerning the project that is available to the scheduler
+when the schedule is created might lend the scheduler to select one method over
+the other when creating the initial schedule. It may be advantageous to use
+both scheduling methods within a schedule switching between scheduling methods
+when needed. 
+
+#### Use Manual Scheduling When
+
+* Minimal information is available about the project and you need to put your
+  ideas (tasks and durations) into an initial schedule. 
+* Tasks are assigned to specific dates and you are not comfortable with the
+  schedule moving as other tasks are entered or as resources are assigned. 
+* Using top-down planning -- entering duration values for summary tasks
+  followed by detail tasks and milestones to complete the work of the summary
+  tasks. 
+* Using free form planning of tasks and durations to produce a Gantt chart.
+* Need to build a rough schedule for a future project
+* Relationships between tasks are not known.
+
+#### Use Automatic Scheduling When
+
+* More complete information is known about the goals of the project. 
+* Using bottom up planning. Enter the summary tasks and create the WBS
+  structure. The detail tasks within the summaries will calculate the duration
+  of the summary tasks. 
+* You want the schedule to be dynamic. Tasks will be adjusted reacting to
+  changes within the schedule. 
+* You want the scheduling engine to calculate dates in the schedule.
+* Resource allocations, resource assignments based on hours, earned value
+  analysis or more accurate metrics are needed. 
+
+#### Consider Using a Combination of Both Methods When
+
+* Initial planning may be in manual mode. As decisions are made and more detail
+  is known, tasks may be converted to automatic mode. 
+* Consider converting to automatic mode when project execution begins. This may
+  be done for the entire project, by phase or range of tasks. 
+
+## Change to Auto Schedule
+
+The column or field in Project 2013 that determines which scheduling mode a
+task is in is called "Task Mode". By default, you will see this field on the
+Entry table of the Gantt Chart. This column may be added to any task table.
+
+Setting the automatic or manual scheduling mode may be accomplished in several
+ways:
+
+To set the scheduling mode for a project or for all future projects:
+
+* **File** &rarr; **Options** &rarr; **Schedule**
+* Choose the option from **Scheduling options for this project**
+* Choose the option from **New tasks created**
+
+![Task Schedule Options from the Project Options Dialog Box.](../assets/task-schedule-options-from-the-project-options-dialog-box.png)
+
+After several tasks are entered you may decide to switch to a different
+scheduling mode for the addition of future tasks for the project. This can be
+done quickly using the option at the bottom left hand corner of the Gantt Chart
+view which is shown below. Changing this option will not affect existing tasks
+in the schedule; it will only affect future added tasks. Click on the button
+highlighted below for the option to change scheduling modes:
+
+![Task Schedule Options from the Status Bar.](../assets/task-schedule-options-from-the-status-bar.png)
+
+The default Entry Table for the Gantt Chart includes the "Task Mode" column
+inserted to the left of the Task Name column. This column may be inserted into
+any table as needed. The indicators in this column indicate the scheduling mode
+for the task. In the view below the automatically scheduled tasks have a Gantt 
+bar with an arrow icon and the manually scheduled tasks have a push pin icon
+in the Task Mode column. Hover your mouse pointer over the icon and the
+scheduling mode description will appear. Clicking on the arrow next to the
+icon will allow for scheduling mode changes per task. Note the different
+Gantt bar formats for manual v automatically scheduled tasks.
+
+![Gantt Chart View Showing the Task Mode Column in the Entry Table.](../assets/gantt-chart-view-showing-the-task-mode-column-in-the-entry-table.png)
+
+To change the scheduling mode from the Task tab:
+
+* Click the task to be changed
+* Click **Task** &rarr; **Manual Schedule or Automatic Schedule**
+
+![Task Schedule Options from the Task Tab on the Ribbon.](../assets/task-schedule-options-from-the-task-tab-on-the-ribbon.png)
+
+Another way to change the scheduling mode is to double click a task to open the
+Task Information dialog box. An option is located on the General tab to change
+the scheduling mode. The options are highlighted in the view below.
+
+![Task Schedule Options from the Task Information Dialog Box.](../assets/task-schedule-options-from-the-task-information-dialog-box.png)
+
+## Key Points to Remember
+
+* Project is capable of handling any scheduling methodology, not just
+  traditional waterfall. You can also use a combination of approaches within
+  one schedule such as Waterfall with an Agile component. 
+* Organizing your schedule hierarchically into a Work Breakdown Structure (WBS)
+  can assist with reporting to management and schedule maintenance. 
+* Use 5 or less outline levels in your WBS.
+* Custom WBS numbers allow you to create a code for each task that does not
+  match the outline numbers built-in to Project. 
+* Consider following a naming approach and structure to each section in your
+  schedule for consistency across projects. 
+* Use milestones to capture goals and give them a duration of 0. 
+* Selecting the task number (ID) is a best practice before inserting, deleting,
+  moving, or copying a task. 
+* Use manual and automatic scheduling where appropriate to give control of the
+  task planning to the scheduler or project manager.  

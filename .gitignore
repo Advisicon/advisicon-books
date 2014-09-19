@@ -10,3 +10,4 @@ Preflight\ Report.pdf
 **/covers/**/*-front.*
 Gemfile.lock
 *.swp
+.sass-cache

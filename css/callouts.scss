@@ -1,0 +1,39 @@
+.callout { 
+  margin-top: .25em; 
+  margin-bottom: .75em; 
+  padding: .25em .5em;
+  font-size: .75em;
+  border-width: 0 0 0 3px;
+  border-style: solid;
+  color: #666666; 
+}
+
+.callout p { text-indent: 0; }
+
+.callout strong:first-child { font-family: sans-serif; }
+
+.callout.pmbok { 
+  border-color: #333333;  
+  & strong:first-child  { color: #333333; }
+}
+
+.callout.note { 
+  border-color: #999999;
+  & strong:first-child  { color: #999999; }
+}
+
+.callout.warning { 
+  border-color: #b15656;
+  & strong:first-child  { color: #b15656; }
+}
+
+.callout.tip { 
+  border-color: #5d9052;
+  & strong:first-child  { color: #5d9052; }
+}
+
+.callout.sidebar { 
+  border-color: #525f90;
+  & strong:first-child {color: #525f90; }
+}
+
