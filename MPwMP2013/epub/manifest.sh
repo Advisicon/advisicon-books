@@ -13,7 +13,7 @@ pandoc -S \
   --epub-stylesheet $CSS_PATH/epub.css \
   --epub-metadata ../MPwMP2013/epub/metadata.xml \
   --toc \
-  --toc-depth 1 \
+  --toc-depth 3 \
   -o test.epub ../MPwMP2013/epub/title.txt \
   ../MPwMP2013/epub/frontmatter.markdown \
   $MARKDOWN_PATH/how-to-use-this-book.markdown \
@@ -21,7 +21,9 @@ pandoc -S \
   $MARKDOWN_PATH/start-a-project.markdown \
   $MARKDOWN_PATH/task-development.markdown \
   $MARKDOWN_PATH/estimating-linking-and-lead-and-lag.markdown \
+  $MARKDOWN_PATH/constraints-and-deadlines.markdown \
   $MARKDOWN_PATH/work-assignments.markdown \
+  $MARKDOWN_PATH/baseline-and-tracking.markdown \
   $MARKDOWN_PATH/printing-and-reporting.markdown
 
 echo "Open EPUB? y(es) n(o)"
