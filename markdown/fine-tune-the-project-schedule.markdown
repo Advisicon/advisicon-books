@@ -209,15 +209,15 @@ itemized in the following table.
 +-------------------------------+------------------------------+-------------+
 | Completed Tasks               | % Complete                   |             |
 +-------------------------------+------------------------------+-------------+
-| Costs Greater Than&hellip;    | Cost                         | X           |
+| Costs Greater Than...         | Cost                         | X           |
 +-------------------------------+------------------------------+-------------+
 | Cost Overbudget               | Cost v Baseline cost         |             |
 +-------------------------------+------------------------------+-------------+
-| Created After&hellip;         | Created                      | X           |
+| Created After...              | Created                      | X           |
 +-------------------------------+------------------------------+-------------+
 | Critical                      | Critical                     |             |
 +-------------------------------+------------------------------+-------------+
-| Date Range&hellip;            | Start, Finish                | X           |
+| Date Range...                 | Start, Finish                | X           |
 +-------------------------------+------------------------------+-------------+
 | In Progress Tasks             | Actual start, Actual finish  |             |
 +-------------------------------+------------------------------+-------------+
@@ -227,7 +227,7 @@ itemized in the following table.
 | Late tasks                    | Status                       |             |
 +-------------------------------+------------------------------+-------------+
 | Late/Overbudget Tasks         | Resource Name, baseline      | X           |
-| Assigned To&hellip;           | finish, Finish v Baseline    |             |
+| Assigned To...                | finish, Finish v Baseline    |             |
 |                               | finish, Cost v Baseline cost |             |
 +-------------------------------+------------------------------+-------------+
 | Linked fields                 | Linked fields                |             |
@@ -236,9 +236,9 @@ itemized in the following table.
 +-------------------------------+------------------------------+-------------+
 | Milestones                    | Milestone                    |             |
 +-------------------------------+------------------------------+-------------+
-| Resource Groups&hellip;       | Resource Groups              | X           |
+| Resource Groups...            | Resource Groups              | X           |
 +-------------------------------+------------------------------+-------------+
-| Should Start By&hellip;       | Start v Actual Start         | X           |
+| Should Start By...            | Start v Actual Start         | X           |
 +-------------------------------+------------------------------+-------------+
 | Slipped/ Late Tasks           | Baseline Finish, Finish v    |             |
 |                               | baseline finish, BCWS v BCWP |             |
@@ -249,7 +249,7 @@ itemized in the following table.
 +-------------------------------+------------------------------+-------------+
 | Summary tasks                 | Summary                      |             |
 +-------------------------------+------------------------------+-------------+
-| Task range&hellip;            | ID (range of task ID         | X           |
+| Task range...                 | ID (range of task ID         | X           |
 |                               | numbers)                     |             |
 +-------------------------------+------------------------------+-------------+
 | Tasks with a Task Calendar    | Calendar Task                |             |
@@ -275,9 +275,9 @@ itemized in the following table.
 | Unstarted tasks               | Actual Start                 |             |
 +-------------------------------+------------------------------+-------------+
 | Using Resource In Date        | Resource name, Start, Finish | X           |
-| Range&hellip;                 |                              |             |
+| Range...                      |                              |             |
 +-------------------------------+------------------------------+-------------+
-| Using Resource&hellip;        | Resource Name                | X           |
+| Using Resource...             | Resource Name                | X           |
 +-------------------------------+------------------------------+-------------+
 | Work overbudget               | Actual Work vs. Baseline     |             |
 |                               | Work                         |             |
@@ -295,15 +295,15 @@ following table.
 +===============================+==============================+=============+
 | Budget Resources              | Budget                       |             |
 +-------------------------------+------------------------------+-------------+
-| Costs Greater Than&hellip;    | Cost                         | X           |
+| Costs Greater Than...         | Cost                         | X           |
 +-------------------------------+------------------------------+-------------+
 | Cost Overbudget               | Cost v Baseline cost         |             |
 +-------------------------------+------------------------------+-------------+
-| Created After&hellip;         | Created                      | X           |
+| Created After...              | Created                      | X           |
 +-------------------------------+------------------------------+-------------+
-| Date Range&hellip;            | Start, Finish                | X           |
+| Date Range...                 | Start, Finish                | X           |
 +-------------------------------+------------------------------+-------------+
-| Group&hellip;                 | Group                        | X           |
+| Group...                      | Group                        | X           |
 +-------------------------------+------------------------------+-------------+
 | In Progress Assignments       | Actual start, Actual finish  |             |
 +-------------------------------+------------------------------+-------------+
@@ -313,9 +313,9 @@ following table.
 +-------------------------------+------------------------------+-------------+
 | Overallocated Resources       | Overallocated, Assignment    |             |
 +-------------------------------+------------------------------+-------------+
-| Resource Range&hellip;        | ID                           | X           |
+| Resource Range...             | ID                           | X           |
 +-------------------------------+------------------------------+-------------+
-| Resource - Cost&hellip;       | Type                         | X           |
+| Resource - Cost...            | Type                         | X           |
 +-------------------------------+------------------------------+-------------+
 | Resource - Material           | Type                         |             |
 +-------------------------------+------------------------------+-------------+
@@ -326,10 +326,10 @@ following table.
 | Resource/Assignments With     | Overtime Work                |             |
 | Overtime                      |                              |             |
 +-------------------------------+------------------------------+-------------+
-| Should Start By&hellip;       | Assignments, Actual Start    | X           |
+| Should Start By...            | Assignments, Actual Start    | X           |
 +-------------------------------+------------------------------+-------------+
 | Should Start/Finish           | Start, Finish                | X           |
-| by&hellip;                    |                              |             |
+| by...                         |                              |             |
 +-------------------------------+------------------------------+-------------+
 | Slipped/Late Progress         | Baseline finish, Finish,     |             |
 |                               | BCWS                         |             |
