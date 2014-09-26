@@ -2,6 +2,7 @@
 
 CSS_PATH="../css"
 MARKDOWN_PATH="../markdown"
+BOOK_PATH="../MPwMP2013"
 
 echo "Compiling CSS"
 
@@ -11,11 +12,14 @@ echo "Generating EPUB"
 
 pandoc -S \
   --epub-stylesheet $CSS_PATH/epub.css \
-  --epub-metadata ../MPwMP2013/epub/metadata.xml \
+  --epub-cover-image $BOOK_PATH/covers/fundamentals/MPwMP2013-fundamentals-v0.0.3-front.jpg \
+  --epub-metadata $BOOK_PATH/epub/metadata.xml \
   --toc \
-  --toc-depth 1 \
-  -o test.epub ../MPwMP2013/epub/title.txt \
-  ../MPwMP2013/epub/frontmatter.markdown \
+  --toc-depth 3 \
+  --chapters \
+  --section-divs \
+  -o test.epub $BOOK_PATH/epub/title.txt \
+  $BOOK_PATH/epub/frontmatter.markdown \
   $MARKDOWN_PATH/how-to-use-this-book.markdown \
   $MARKDOWN_PATH/introduction-to-project-management.markdown \
   $MARKDOWN_PATH/overview-of-microsoft-project.markdown \
@@ -27,7 +31,9 @@ pandoc -S \
   $MARKDOWN_PATH/work-assignments.markdown \
   $MARKDOWN_PATH/fine-tune-the-project-schedule.markdown \
   $MARKDOWN_PATH/baseline-and-tracking.markdown \
-  $MARKDOWN_PATH/printing-and-reporting.markdown
+  $MARKDOWN_PATH/printing-and-reporting.markdown \
+  $MARKDOWN_PATH/project-feature-coverage.markdown \
+  $MARKDOWN_PATH/advisicon-services-and-training.markdown
 
 echo "Open EPUB? y(es) n(o)"
 read open_epub

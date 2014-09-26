@@ -121,7 +121,7 @@ Results.
 
 * Microsoft Project and Project Server deployments, consulting and training
 * SharePoint deployment, custom WebPart development, and training
-* Microsoft Access & SharePoint application development, consulting and training 
+* Microsoft Access &amp; SharePoint application development, consulting and training 
 * Project management office formation and development
 * Project and portfolio management consulting and training
 * Project management maturity assessments
