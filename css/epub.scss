@@ -37,7 +37,10 @@ img, li .figure img{
   text-align:center;
   margin-top:1em;
 }
-p img, li img{
+
+p img, 
+li img, 
+table img {
   display:inline;
   text-align: left;
   margin-top: auto;
@@ -61,6 +64,7 @@ table {
   border-collapse: collapse;
 }
 
+table + table { margin-top: 5em; }
 table thead { font-family: sans-serif; }
 table caption { 
   text-align: left; 
