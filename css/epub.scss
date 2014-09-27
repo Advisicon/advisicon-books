@@ -3,17 +3,30 @@
 
 body { 
   color: #333333; 
-  font-family: Fanwood;
+  font-family: FanwoodText;
 }
+p strong,
+li strong {
+  font-family: Chunk;
+}
+em, cite { font-family: FanwoodTextItalic; }
 code { font-family: monospace; }
 h1, h2, h3, h4, h5, h6 { 
   text-align: left; 
   margin-top:2em; 
   margin-bottom:1em; 
-  font-family: "LeagueGothic", sans-serif; 
+  font-family: "OstrichSansBlack", sans-serif; 
 }
 h1.title { }
+h1 { 
+  font-family: OstrichSansLight, sans-serif; 
+  font-size: 5em; 
+  margin-top: 0; 
+}
 h2.author { }
+h2 { font-size: 3em; }
+h3 { font-size: 2em; }
+h4 { font-size: 1em; }
 p{
   padding:0;
   margin: .25em 0 .75em;
@@ -69,11 +82,11 @@ table {
 }
 
 table + table { margin-top: 5em; }
-table thead { font-family: "LeagueGothic", sans-serif; }
+table thead { font-family: "OstrichSansBlack", sans-serif; }
 table caption { 
   text-align: left; 
   color: #999999; 
-  font-family: "LeagueGothic", sans-serif; 
+  font-family: "OstrichSansBlack", sans-serif; 
   font-size: .75em;
 }
 table thead th { 
@@ -83,8 +96,16 @@ table thead th {
 }
 table tr.odd { background-color: #eeeeee; }
 
-table td:first-child { font-weight: bold;  padding-left: 0; }
-table td { padding: .5em; vertical-align: top; }
+table td:first-child { 
+  font-weight: bold;  
+  font-family: Chunk;
+  padding-left: 0; 
+  line-height: 1.75em;
+}
+table td { 
+  padding: .5em; 
+  vertical-align: top; 
+}
 
 table p { text-indent: 0; }
 

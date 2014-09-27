@@ -1,13 +1,28 @@
 @font-face {
-  font-family: LeagueGothic;
+  font-family: OstrichSansLight;
   font-weight: normal;
   font-style: normal;
-  src: url(LeagueGothic-Regular.otf); }
+  src: url(OstrichSans-Light.otf); }
 @font-face {
-  font-family: Fanwood;
+  font-family: OstrichSansBlack;
   font-weight: normal;
   font-style: normal;
-  src: url("Fanwood Text.otf"); }
+  src: url(OstrichSans-Black.otf); }
+@font-face {
+  font-family: FanwoodText;
+  font-weight: normal;
+  font-style: normal;
+  src: url("Fanwood-Text.otf"); }
+@font-face {
+  font-family: FanwoodTextItalic;
+  font-weight: normal;
+  font-style: italic;
+  src: url("Fanwood-Text-Italic.otf"); }
+@font-face {
+  font-family: Chunk;
+  font-weight: bold;
+  font-style: normal;
+  src: url("Chunk.otf"); }
 .callout {
   margin-top: .25em;
   margin-bottom: .75em;
@@ -21,7 +36,7 @@
   text-indent: 0; }
 
 .callout strong:first-child {
-  font-family: sans-serif; }
+  font-family: OstrichSansBlack; }
 
 .callout.pmbok {
   border-color: #333333; }
@@ -50,7 +65,14 @@
 
 body {
   color: #333333;
-  font-family: Fanwood; }
+  font-family: FanwoodText; }
+
+p strong,
+li strong {
+  font-family: Chunk; }
+
+em, cite {
+  font-family: FanwoodTextItalic; }
 
 code {
   font-family: monospace; }
@@ -59,7 +81,21 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left;
   margin-top: 2em;
   margin-bottom: 1em;
-  font-family: "LeagueGothic", sans-serif; }
+  font-family: "OstrichSansBlack", sans-serif; }
+
+h1 {
+  font-family: OstrichSansLight, sans-serif;
+  font-size: 5em;
+  margin-top: 0; }
+
+h2 {
+  font-size: 3em; }
+
+h3 {
+  font-size: 2em; }
+
+h4 {
+  font-size: 1em; }
 
 p {
   padding: 0;
@@ -117,12 +153,12 @@ table + table {
   margin-top: 5em; }
 
 table thead {
-  font-family: "LeagueGothic", sans-serif; }
+  font-family: "OstrichSansBlack", sans-serif; }
 
 table caption {
   text-align: left;
   color: #999999;
-  font-family: "LeagueGothic", sans-serif;
+  font-family: "OstrichSansBlack", sans-serif;
   font-size: .75em; }
 
 table thead th {
@@ -135,7 +171,9 @@ table tr.odd {
 
 table td:first-child {
   font-weight: bold;
-  padding-left: 0; }
+  font-family: Chunk;
+  padding-left: 0;
+  line-height: 1.75em; }
 
 table td {
   padding: .5em;

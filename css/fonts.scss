@@ -1,13 +1,34 @@
 @font-face {
-  font-family : LeagueGothic;
+  font-family : OstrichSansLight;
   font-weight : normal;
   font-style: normal;
-  src : url(LeagueGothic-Regular.otf);
+  src : url(OstrichSans-Light.otf);
 }
 
 @font-face {
-  font-family : Fanwood;
+  font-family : OstrichSansBlack;
   font-weight : normal;
   font-style: normal;
-  src : url('Fanwood Text.otf');
+  src : url(OstrichSans-Black.otf);
+}
+
+@font-face {
+  font-family : FanwoodText;
+  font-weight : normal;
+  font-style: normal;
+  src : url('Fanwood-Text.otf');
+}
+
+@font-face {
+  font-family : FanwoodTextItalic;
+  font-weight : normal;
+  font-style: italic;
+  src : url('Fanwood-Text-Italic.otf');
+}
+
+@font-face {
+  font-family : Chunk;
+  font-weight : bold;
+  font-style: normal;
+  src : url('Chunk.otf');
 }

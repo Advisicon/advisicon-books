@@ -17,8 +17,11 @@ pandoc -S --self-contained \
   --epub-stylesheet $CSS_PATH/epub.css \
   --epub-cover-image $BOOK_PATH/covers/fundamentals/MPwMP2013-fundamentals-v0.0.3-front.jpg \
   --epub-metadata $BOOK_PATH/epub/metadata.xml \
-  --epub-embed-font $FONT_PATH/LeagueGothic-Regular.otf \
-  --epub-embed-font $FONT_PATH/Fanwood\ Text.otf \
+  --epub-embed-font $FONT_PATH/OstrichSans-Light.otf \
+  --epub-embed-font $FONT_PATH/OstrichSans-Black.otf \
+  --epub-embed-font $FONT_PATH/Fanwood-Text.otf\
+  --epub-embed-font $FONT_PATH/Fanwood-Text-Italic.otf \
+  --epub-embed-font $FONT_PATH/Chunk.otf \
   --toc \
   --toc-depth 3 \
   --chapters \
