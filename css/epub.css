@@ -1,3 +1,13 @@
+@font-face {
+  font-family: LeagueGothic;
+  font-weight: normal;
+  font-style: normal;
+  src: url(LeagueGothic-Regular.otf); }
+@font-face {
+  font-family: Fanwood;
+  font-weight: normal;
+  font-style: normal;
+  src: url("Fanwood Text.otf"); }
 .callout {
   margin-top: .25em;
   margin-bottom: .75em;
@@ -39,7 +49,8 @@
     color: #525f90; }
 
 body {
-  color: #333333; }
+  color: #333333;
+  font-family: Fanwood; }
 
 code {
   font-family: monospace; }
@@ -48,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left;
   margin-top: 2em;
   margin-bottom: 1em;
-  font-family: sans-serif; }
+  font-family: "LeagueGothic", sans-serif; }
 
 p {
   padding: 0;
@@ -106,12 +117,12 @@ table + table {
   margin-top: 5em; }
 
 table thead {
-  font-family: sans-serif; }
+  font-family: "LeagueGothic", sans-serif; }
 
 table caption {
   text-align: left;
   color: #999999;
-  font-family: sans-serif;
+  font-family: "LeagueGothic", sans-serif;
   font-size: .75em; }
 
 table thead th {

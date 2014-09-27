@@ -9,7 +9,7 @@
 </figcaption>
 </figure>
 
-## Overview
+## Overview {#task-development-overview}
 
 In planning out a schedule, you will need to consider which life cycle approach
 you will be applying. Three popular options are Work Breakdown Structure (WBS),
@@ -185,11 +185,11 @@ activities to those feature sets that need completed.
   with key categories or summary activities, such as a Software Development 
   Lifecycle (SDLC).
 
-In the [next figure](#agile-methodology-scheduling-approach), we illustrate
+In the [next figure](#fig-agile-methodology-scheduling-approach), we illustrate
 lining out the key features (un-named), but essentially the tasks that need to
 be managed based upon the Sprint, priority, customer need, etc.
 
-![<span id="agile-methodology-scheduling-approach">Agile Methodology Scheduling Approach.</span>](../assets/Agile-Methodology-Scheduling-Approach.png)
+![<span id="fig-agile-methodology-scheduling-approach">Agile Methodology Scheduling Approach.</span>](../assets/Agile-Methodology-Scheduling-Approach.png)
 
 In the [following figure](#agile-methodology-grouping), we use the
 project's fields to group by a Burn Down view, showcasing features, sprints and
@@ -626,7 +626,7 @@ if needed.
 Refer to [the following figure](#example-of-wbs-numbering-schema), an example
 of a WBS numbering schema: 
 
-![The WBS column is displaying the system assigned WBS numbers associated with the tasks.](../assets/5-11-display-WBS-numbers.png)
+![<span id="example-of-wbs-numbering-schema">The WBS column is displaying the system assigned WBS numbers associated with the tasks.</span>](../assets/5-11-display-WBS-numbers.png)
 
 <aside class="tip callout">
 **Tip**: Because automatic WBS numbers are updated as tasks are moved or added

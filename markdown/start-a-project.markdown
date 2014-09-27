@@ -10,7 +10,7 @@
 </figcaption>
 </figure>
 
-## Overview
+## Overview {#start-a-project-overview}
 
 New schedules can be created a number of ways: importing a task list, applying
 a template, or pulling data from Excel or SharePoint. Common tasks in managing
@@ -278,7 +278,7 @@ additional data will appear on the right side of the view.
 pressing that button will create a new project schedule
 </aside>
 
-![View for selecting how to create a new project.](../assets/available\ templates.png)
+![View for selecting how to create a new project.](../assets/available-templates.png)
 
 ### Creating a Project from an Excel Workbook
 
@@ -351,7 +351,7 @@ To import tasks from a SharePoint task list into Project 2013 Professional:
 
 1. Click **File** &rarr; **New** &rarr; **New** from SharePoint Task List.
 
-   ![Enter the URL for the existing SharePoint site that contains a task list to import into the open project schedule.](../assets/import\ sharepoint\ tasks\ list.png)
+   ![Enter the URL for the existing SharePoint site that contains a task list to import into the open project schedule.](../assets/import-sharepoint-tasks-list.png)
 
 2. Enter the URL in the form as shown above and click **Change to Check Address**. 
    A list of all the task lists included in the SharePoint site will be displayed. 

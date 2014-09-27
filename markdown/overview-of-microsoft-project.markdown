@@ -8,7 +8,7 @@
 </figcaption>
 </figure>
 
-## Overview
+## Overview {#overview-of-microsoft-project-overview}
 
 Using Project as your scheduling software provides many advantages. Project
 functions as a database and supports relationships between tasks, resources
@@ -450,7 +450,7 @@ where a resource might be overallocated and by how much based on the length of
 the bar above the units available line (the darker horizontal line at 100% in
 the [next figure](#fig-resource-graph-view)).
 
-![<span id="#fig-resource-graph-view">Resource Graph View.</span>](../assets/2-16.png)
+![<span id="fig-resource-graph-view">Resource Graph View.</span>](../assets/2-16.png)
 
 **Team Planner** -- the Team Planner view is a resource focused view that
 showcases work assignments in a graphical timeline format. The advantage of

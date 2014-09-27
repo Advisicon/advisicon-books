@@ -3,6 +3,9 @@
 CSS_PATH="../css"
 MARKDOWN_PATH="../markdown"
 BOOK_PATH="../MPwMP2013"
+FONT_PATH="../fonts"
+
+BOOK_NAME="introduction-to-scheduling-with-microsoft-project"
 
 echo "Compiling CSS"
 
@@ -10,15 +13,18 @@ sass --load-path $CSS_PATH/ $CSS_PATH/epub.scss $CSS_PATH/epub.css
 
 echo "Generating EPUB"
 
-pandoc -S \
+pandoc -S --self-contained \
   --epub-stylesheet $CSS_PATH/epub.css \
   --epub-cover-image $BOOK_PATH/covers/fundamentals/MPwMP2013-fundamentals-v0.0.3-front.jpg \
   --epub-metadata $BOOK_PATH/epub/metadata.xml \
+  --epub-embed-font $FONT_PATH/LeagueGothic-Regular.otf \
+  --epub-embed-font $FONT_PATH/Fanwood\ Text.otf \
   --toc \
   --toc-depth 3 \
   --chapters \
   --section-divs \
-  -o test.epub $BOOK_PATH/epub/title.txt \
+  -t epub3 \
+  -o $BOOK_NAME.epub \
   $BOOK_PATH/epub/frontmatter.markdown \
   $MARKDOWN_PATH/how-to-use-this-book.markdown \
   $MARKDOWN_PATH/introduction-to-project-management.markdown \
@@ -38,6 +44,6 @@ pandoc -S \
 echo "Open EPUB? y(es) n(o)"
 read open_epub
 if [ $open_epub = y ]; then
-  echo "Opening test.epub"
-  open test.epub
+  echo "Opening $BOOK_NAME.epub"
+  open $BOOK_NAME.epub
 fi

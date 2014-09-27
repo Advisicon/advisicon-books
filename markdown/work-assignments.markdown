@@ -11,7 +11,7 @@
 </figcaption>
 </figure>
 
-## Overview
+## Overview {#work-assignments-overview}
 
 A schedule is merely a to-do list until you add resources to it. A resource is
 the person or entity who performs the work. The process of adding resources

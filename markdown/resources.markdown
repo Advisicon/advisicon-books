@@ -10,7 +10,7 @@
 </figcaption>
 </figure>
 
-## Overview
+## Overview {#resources-overview}
 
 An important first step to getting the work done that has been illustrated in
 the schedule is planning out the need for different types of resources that
@@ -319,7 +319,7 @@ Cost tab data:
 
 This tab is reserved for recording increases to costs of resources.
 
-<aside callout="note callout">
+<aside class="note callout">
 **Note**: Most organizations who track costs experience periodic rate changes.
 The effective date allows early storage of future rate adjustments that become
 active based on a cut-off date. If a project spans the cut-off date, the tasks

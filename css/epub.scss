@@ -1,12 +1,16 @@
+@import "fonts";
 @import "callouts";
 
-body { color: #333333; }
+body { 
+  color: #333333; 
+  font-family: Fanwood;
+}
 code { font-family: monospace; }
 h1, h2, h3, h4, h5, h6 { 
   text-align: left; 
   margin-top:2em; 
   margin-bottom:1em; 
-  font-family: sans-serif; 
+  font-family: "LeagueGothic", sans-serif; 
 }
 h1.title { }
 h2.author { }
@@ -65,11 +69,11 @@ table {
 }
 
 table + table { margin-top: 5em; }
-table thead { font-family: sans-serif; }
+table thead { font-family: "LeagueGothic", sans-serif; }
 table caption { 
   text-align: left; 
   color: #999999; 
-  font-family: sans-serif; 
+  font-family: "LeagueGothic", sans-serif; 
   font-size: .75em;
 }
 table thead th { 

@@ -9,7 +9,7 @@
 </figcaption>
 </figure>
 
-## Overview
+## Overview {#printing-and-reporting-overview}
 
 The output from a schedule is important as a communication tool; therefore
 tailoring the view can be helpful to address the information needs of the

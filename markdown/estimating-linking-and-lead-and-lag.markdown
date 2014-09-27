@@ -12,7 +12,7 @@
 </figcaption>
 </figure>
 
-## Overview
+## Overview {#estimating-linking-and-lead-and-lag-overview}
 
 A somewhat time consuming but critical aspect of scheduling is the estimating
 process. During this process you need to decide if you are doing a top down or

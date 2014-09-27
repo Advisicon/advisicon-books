@@ -11,7 +11,7 @@
 </figcaption>
 </figure>
 
-## Overview
+## Overview {#fine-tune-the-project-schedule-overview}
 
 Fine tuning the project schedule is about reviewing different aspects of the
 schedule and making the adjustments necessary to have an effective plan for

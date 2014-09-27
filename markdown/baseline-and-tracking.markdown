@@ -9,7 +9,7 @@
 </figcaption>
 </figure>
 
-## Overview
+## Overview {#baseline-and-tracking-overview}
 
 After a schedule is refined and approved, you are ready to begin the work of
 the project. Often stakeholders will request the ability to see status updates
