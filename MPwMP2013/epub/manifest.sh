@@ -17,11 +17,10 @@ pandoc -S --self-contained \
   --epub-stylesheet $CSS_PATH/epub.css \
   --epub-cover-image $BOOK_PATH/covers/fundamentals/MPwMP2013-fundamentals-v0.0.3-front.jpg \
   --epub-metadata $BOOK_PATH/epub/metadata.xml \
-  --epub-embed-font $FONT_PATH/OstrichSans-Light.otf \
+  --epub-embed-font $FONT_PATH/OstrichSans-Medium.otf \
   --epub-embed-font $FONT_PATH/OstrichSans-Black.otf \
-  --epub-embed-font $FONT_PATH/Fanwood-Text.otf\
+  --epub-embed-font $FONT_PATH/Fanwood-Text.otf \
   --epub-embed-font $FONT_PATH/Fanwood-Text-Italic.otf \
-  --epub-embed-font $FONT_PATH/Chunk.otf \
   --toc \
   --toc-depth 3 \
   --chapters \
@@ -43,6 +42,13 @@ pandoc -S --self-contained \
   $MARKDOWN_PATH/printing-and-reporting.markdown \
   $MARKDOWN_PATH/project-feature-coverage.markdown \
   $MARKDOWN_PATH/advisicon-services-and-training.markdown
+
+echo "Generate Kindle? y(es) n(o)"
+read make_kindle
+if [ $make_kindle = y ]; then
+  echo "Converting from $BOOK_NAME.epub"
+  kindlegen $BOOK_NAME.epub
+fi
 
 echo "Open EPUB? y(es) n(o)"
 read open_epub

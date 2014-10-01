@@ -1,13 +1,15 @@
+@import "normalize";
 @import "fonts";
 @import "callouts";
 
 body { 
   color: #333333; 
   font-family: FanwoodText;
+  text-rendering: optimizeLegibility;
 }
 p strong,
 li strong {
-  font-family: Chunk;
+  font-family: OstrichSansMedium;
 }
 em, cite { font-family: FanwoodTextItalic; }
 code { font-family: monospace; }
@@ -19,14 +21,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1.title { }
 h1 { 
-  font-family: OstrichSansLight, sans-serif; 
-  font-size: 5em; 
+  font-family: OstrichSansBlack, sans-serif; 
+  font-size: 3em; 
   margin-top: 0; 
 }
 h2.author { }
-h2 { font-size: 3em; }
-h3 { font-size: 2em; }
-h4 { font-size: 1em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1em; }
+h4 { font-size: 1em; font-family: OstrichSansLight, sans-serif; }
 p{
   padding:0;
   margin: .25em 0 .75em;
@@ -98,7 +100,7 @@ table tr.odd { background-color: #eeeeee; }
 
 table td:first-child { 
   font-weight: bold;  
-  font-family: Chunk;
+  font-family: OstrichSansMedium;
   padding-left: 0; 
   line-height: 1.75em;
 }
